@@ -1,3 +1,14 @@
+$text-color: #495057;
+$bg-color: #edf2f7;
+
+$post-shadow-color: rgba(18, 38, 63, 0.03);
+$card-shadow-color: rgba(18, 38, 63, 0.03);
+
+$link-active-color: #3379be;
+$link-hover-color: #dee7f1;
+
+$cards-bg-colors: [#96d0c3, #ef7d4d, #fbcfb9, #fac14e];
+
 html {
   box-sizing: border-box;
   margin:0;
@@ -7,8 +18,8 @@ html {
   box-sizing: inherit;
 }
 body {
-  background-color: #edf2f7;
-  color: #495057;
+  background-color: $bg-color;
+  color: $text-color;
 }
 
 header, main {
@@ -41,54 +52,49 @@ header, main {
   }
 }
 .card:nth-child(1n) {
-  background: #96d0c3;
+  background: nth($cards-bg-colors, 1);
 }
 .card:nth-child(2n) {
-  background: #ef7d4d;
+  background: nth($cards-bg-colors, 2);
 }
 .card:nth-child(3n) {
-  background: #fbcfb9;
+  background: nth($cards-bg-colors, 3);
 }
 .card:nth-child(4n) {
-  background: #fac14e;
+  background: nth($cards-bg-colors, 4);
 }
 
 .card:nth-child(5n + 1) {
-  background: #ef7d4d;
+  background: nth($cards-bg-colors, 2);
 }
 
 .card:nth-child(6n + 1) {
-  background: #ef7d4d;
+  background: nth($cards-bg-colors, 2);
 }
 
 .card:nth-child(7n +1) {
-  background: #fac14e;
+  background: nth($cards-bg-colors, 4);
 }
 
 
 .card:nth-child(4n + 1) {
-  background: #fac14e;
+  background: nth($cards-bg-colors, 4);
 }
 .card:nth-child(4n + 2) {
-  background: #fbcfb9;
+  background: nth($cards-bg-colors, 3);
 }
 .card:nth-child(4n + 3) {
-  background: #ef7d4d;
+  background: nth($cards-bg-colors, 2);
 }
 .card:nth-child(4n + 4) {
-  background: #96d0c3;
+  background: nth($cards-bg-colors, 1);
 }
 
 .card {
-  //min-height: 100%;
   background: white;
-  -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-  box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-  //display: flex;
-  //flex-direction: column;
+  -webkit-box-shadow: 0 0.75rem 1.5rem $card-shadow-color;
+  box-shadow: 0 0.75rem 1.5rem $card-shadow-color;
   text-decoration: none;
-  //position: relative;
-  //top: 0;
   color: inherit;
 }
 
@@ -130,9 +136,8 @@ header, main {
 .post {
   background: white;
   padding: 2rem 3rem;
-  -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-  box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-
+  -webkit-box-shadow: 0 0.75rem 1.5rem $post-shadow-color;
+  box-shadow: 0 0.75rem 1.5rem $post-shadow-color;
 }
 
 .card {
@@ -175,10 +180,10 @@ nav {
       display: inline-block;
       border-radius: 3px;
       &.active {
-        color: #3379be;
+        color: $link-active-color;
       }
       &:hover {
-        background-color: #dee7f1;
+        background-color: $link-hover-color;
       }
     }
   }
@@ -190,7 +195,6 @@ nav {
     font-size: 0.8rem;
     font-weight: 500;
     letter-spacing: .05em;
-    //opacity: 0.6;
   }
 }
 
