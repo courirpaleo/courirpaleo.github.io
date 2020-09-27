@@ -1,0 +1,69 @@
+title: Courir Paléo
+url: courirpaleo.fr
+baseurl: ""
+author:
+  name: Courir Paléo
+  email: info@courirpaleo.fr
+description: Association et club de course minimaliste à Paris
+# logo:
+# image:
+social:
+  twitter: benoitquemar
+  instagram: courirpaleo
+  facebook: courirpaleo
+
+permalink: pretty
+
+# disqus:
+#   name: "your disqus username" # required
+#   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+
+include:
+  - _redirects
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  # - disqus-for-jekyll
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
