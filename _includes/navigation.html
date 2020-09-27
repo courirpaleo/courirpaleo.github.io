@@ -1,10 +1,12 @@
-<nav role="navigationnnn">
+<nav role="navigation">
     <div id="menuToggle">
-        <input type="checkbox" />
+        <input type="checkbox" class="hamburger" />
 
-        <span></span>
-        <span></span>
-        <span></span>
+        <div class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
 
         <ul id="menu">
             <li {% if page.url == "/" %}class="active"{% endif %}><a href="/">Accueil</a></li>
