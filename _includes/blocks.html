@@ -1,0 +1,17 @@
+<div class="grid">
+
+    {% for page in site.pages-secondary %}
+
+        <article role="article" class="card">
+            <div class="meta">
+                <h2><a href="{{ site.baseurl }}{{ page.url }}">
+                    {{ page.title }}
+                </a></h2>
+                <p>{{ page.summary }}</p>
+            </div>
+
+        </article>
+
+    {% endfor %}
+
+</div>

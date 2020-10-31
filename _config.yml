@@ -40,9 +40,9 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
+  pages-secondary:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:name
 
 defaults:
   -
@@ -59,9 +59,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "pages-secondary"
     values:
-      layout: "post"
+      layout: "page"
 
   - scope:
       path: "assets/images"
