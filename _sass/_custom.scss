@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'brizeux';
+    font-family: 'brizeuxbold';
     src: url('fonts/brizeux.woff2') format('woff2'),
          url('fonts/brizeux.woff') format('woff');
     font-weight: normal;
@@ -33,7 +33,8 @@ body {
   font-family: 'paysage';
 }
 h1, h2, h3, h4 {
-  font-family: 'brizeux';
+  font-family: 'brizeuxbold';
+  letter-spacing: 1px;
 }
 
 
