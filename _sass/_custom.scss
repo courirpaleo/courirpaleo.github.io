@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'brizeuxbold';
+    src: url('../assets/fonts/brizeux.woff2') format('woff2'),
+         url('../assets/fonts/brizeux.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'paysage';
+    src: url('../assets/fonts/Paysage-Medium.woff2') format('woff2'),
+         url('../assets/fonts/Paysage-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'paysage';
+    src: url('../assets/fonts/Paysage-Bold.woff2') format('woff2'),
+         url('../assets/fonts/Paysage-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+.logo {
+  width: 30%;
+  float: left;
+  margin-top: 25px;
+}
+
+.nav a {
+  font-family: 'brizeuxbold';
+  text-transform: uppercase;
+}
+nav ul li.active {
+color: #D15726;
+}
+
+body {
+  font-family: 'paysage';
+}
+
+h1 {
+  text-transform: uppercase;}
+}
+h1, h2, h3, h4 {
+  font-family: 'brizeuxbold';
+  letter-spacing: 1px;
+}
+
+
+@media (max-width: 640px) {
+
+  .logo {
+    width: 60%;
+    margin-top: 0px;
+    margin-left: 10px;
+  }
+}
