@@ -3,3 +3,12 @@
   float: left;
   margin-top: 25px;
 }
+
+
+@media (max-width: 640px) {
+
+  .logo {
+    width: 80%;
+    margin-top: 0px;
+  }
+}
