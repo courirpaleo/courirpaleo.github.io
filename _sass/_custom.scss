@@ -29,6 +29,14 @@
   margin-top: 25px;
 }
 
+.nav a {
+  font-family: 'brizeuxbold';
+  text-transform: uppercase;
+}
+nav ul li.active {
+color: #D15726;
+}
+
 body {
   font-family: 'paysage';
 }
