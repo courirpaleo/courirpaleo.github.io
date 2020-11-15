@@ -1,7 +1,39 @@
+@font-face {
+    font-family: 'brizeux';
+    src: url('fonts/brizeux.woff2') format('woff2'),
+         url('fonts/brizeux.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'paysage';
+    src: url('fonts/Paysage-Regular.woff2') format('woff2'),
+         url('fonts/Paysage-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'paysage';
+    src: url('fonts/Paysage-Bold.woff2') format('woff2'),
+         url('fonts/Paysage-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
 .logo {
   width: 30%;
   float: left;
   margin-top: 25px;
+}
+
+body {
+  font-family: 'paysage';
+}
+h1, h2, h3, h4 {
+  font-family: 'brizeux';
 }
 
 
