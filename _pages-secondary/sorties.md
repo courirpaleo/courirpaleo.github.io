@@ -1,7 +1,7 @@
 ---
-title: Exemple
-description: La description pour le SEO
-summary: Un résumé
+title: Prochaines sorties
+description: Venez courir avec nous !
+summary: Venez courir avec nous !
 ---
 
-Cette page est un exemple.
+# Prochaines sorties
