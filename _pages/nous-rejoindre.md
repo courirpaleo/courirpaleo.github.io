@@ -1,3 +1,3 @@
 ---
-title: Ressources
+title: Nous rejoindre - Association Courir Paléo
 ---
