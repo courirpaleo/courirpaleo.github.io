@@ -9,7 +9,7 @@ Les présentes Conditions générales d’utilisation (CGU) encadrent juridiquem
 Constituant le contrat entre l’association Courir Paléo et l’utilisateur (l’internaute accédant au site Internet), l’accès au site doit être précédé de l’acceptation de ces CGU. L’accès à cette plateforme signifie l’acceptation des présentes CGU.
 
 ### Mentions légales
-Voir la page Mentions légales
+Voir la page <a href="/mentions">Mentions légales</a>.
 
 ### Accès au site
 Le site CourirPaleo.fr permet d’accéder gratuitement aux informations relatives à l’activité de l’association et à son objet, présentant et encourageant la course naturelle, minimaliste.
