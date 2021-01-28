@@ -2,7 +2,7 @@
 title: Conditions générales d'utilisation (CGU)
 ---
 
-#Conditions générales d’utilisation du site CourirPaleo.fr
+# Conditions générales d’utilisation du site CourirPaleo.fr
 
 ### Objet
 Les présentes Conditions générales d’utilisation (CGU) encadrent juridiquement l’utilisation des services du site CourirPaleo.fr (ci-après dénommé « le site »).
