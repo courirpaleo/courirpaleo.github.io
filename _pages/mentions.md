@@ -4,7 +4,7 @@ title: Mentions légales
 # Mentions légales
 
 ### Introduction
-Ce site est édité par l’association Courir Paléo, association loi du 1er juillet 1901, créée le 13 mai 2017 sous le numéro RNA W912009574, domiciliée au 15 allée Lavoisier à Yerres (Essonne), 91330, France, téléphone +33 6 76 13 17 85.
+Ce site est édité par Courir Paléo, association loi du 1er juillet 1901, créée le 13 mai 2017 sous le numéro RNA W912009574, domiciliée au 15 allée Lavoisier à Yerres (Essonne), 91330, France, téléphone +33 6 76 13 17 85.
 
 Responsable de la publication du site : Benoît Quémar, président de l’association, joignable par courriel à l'adresse suivante : info@courirpaleo.fr
 
@@ -13,7 +13,7 @@ Hébergement : GitHub Pages, de GitHub Inc, Californie, États-Unis, via GitHub.
 ### Informatique et liberté
 Aucune information personnelle n'est collectée à votre insu. Les informations que vous nous communiquez lors d’une demande de devis, de renseignements ou d’inscription à la newsletter par courrier, par téléphone, par e-mail ou par formulaire sont uniquement destinées au traitement administratif de votre demande par l’association Courir Paléo.
 Elles ne font l'objet d'aucune cession à des tiers. Courir Paléo traite les informations qui vous concernent avec la plus grande confidentialité.
-Conformément à la loi « Informatique et Libertés » n°78-17 du 6 janvier 1978, vous disposez d'un droit d'accès, de rectification et d'opposition aux données personnelles vous concernant. Pour l'exercer, il suffit de nous en faire la demande par écrit aux coordonnées suivantes : info@courirpaleo.fr ou par courrier à Courir Paléo, 15 allée Lavoisier, 91330 Yerres, France.
+Conformément à la loi Informatique et Libertés n°78-17 du 6 janvier 1978, vous disposez d'un droit d'accès, de rectification et d'opposition aux données personnelles vous concernant. Pour l'exercer, il suffit de nous en faire la demande par écrit aux coordonnées suivantes : info@courirpaleo.fr ou par courrier à Courir Paléo, 15 allée Lavoisier, 91330 Yerres, France.
 
 ### Droit d'auteur / copyright
 L'ensemble du contenu du présent site Internet, y compris nom de domaine, marques, logo, texte… est la propriété de l’association Courir Paléo ; il est protégé par les lois en vigueur de la législation française sur la propriété intellectuelle.
