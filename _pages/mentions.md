@@ -29,3 +29,6 @@ Nous nous réservons par ailleurs le droit de modifier les informations ou les �
 Les liens hypertextes mis en œuvre au sein du présent site Internet, en direction d'autres sites et/ou de pages personnelles et d'une manière générale vers toutes ressources existantes sur Internet, ne sauraient engager la responsabilité de Courir Paléo.
 De même, l’association Courir Paléo ne pourra en aucune façon être tenue pour responsable des sites ayant un lien hypertexte avec le présent site et décline toute responsabilité quant à leur contenu et à leur utilisation.
 
+### Autres conditions générales d'utilisation
+Voir la page <a href="/cgu">CGU</a>.
+
