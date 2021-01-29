@@ -8,9 +8,9 @@ summary: Venez courir avec nous !
 
 ### Découvrir, s'initier, s'amuser, partager des impressions
 
-Nous organisons des sorties d'initiation, de découverte de la foulée naturelle ou de partage d'expérience le premier dimanche de chaque mois à Paris, le matin, selon le calendrier qui suit.
+Nous organisons des sorties d'initiation, de découverte de la foulée naturelle et de partage d'expérience le premier dimanche de chaque mois à Paris, le matin, selon le calendrier qui suit.
 Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent découvrir une nouvelle façon de courir sans se blesser et nous organisons des ateliers courts de course pieds nus sur du sable ou de l'herbe, selon l'endroit.
-L'accès est libre et gratuit, sans réservation. Voir plus bas pour les lieux de rendez-vous exacts.​
+L'accès est libre et gratuit de 5 à 105 ans, sans réservation. Voir plus bas pour les lieux de rendez-vous exacts.​
 
 - Dimanche 7 février 2021 : Quai Rive Gauche / Piscine Joséphine Baker
 - Dimanche 7 mars 2021 : Parc Montsouris
