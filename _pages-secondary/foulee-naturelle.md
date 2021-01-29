@@ -7,14 +7,6 @@ summary: Tout comprendre sur le bout des doigts de pieds
 # La foulée naturelle
 ## Tout comprendre sur le bout des doigts de pieds !
 
-### Question 1
+### Courez comme la Nature et votre anatomie l'ont prévu !
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Question 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Question 3
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En courant pieds nus, en sandales ou avec des chaussures sans amorti, sans «&nbsp;drop&nbsp;» (la hauteur de talon) et sans semelle moulée intérieure, le pied fonctionne normalement et tout le corps en est renforcé. Les blessures sont beaucoup moins fréquentes qu'avec des chaussures de course ou de running classiques. Celles-ci permettent certes de poser le talon en premier pour allonger sa foulée, mais bloquent le fonctionnement naturel du corps, donnent une mauvaise posture et transfèrent l'absorption du choc résiduel aux genoux.
