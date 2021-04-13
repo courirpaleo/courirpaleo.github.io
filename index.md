@@ -3,7 +3,7 @@ layout: default
 title: Accueil
 ---
 
-![Courir Paleo](/assets/images/CourirPaleo_Montsouris_pieds_1600px.jpg)
+![Courir Paleo](/assets/images/CourirPaleo_course_Parc-Montsouris_foulees_1200px.jpg)
 
 #### Courir Paléo est une association loi 1901 et un club de course minimaliste créé en 2016 à Paris. Nous faisons découvrir la course liberté à ceux qui veulent courir de manière naturelle et originelle.
 En courant pieds nus, en sandales ou avec des chaussures sans amorti et sans «&nbsp;drop&nbsp;» (la hauteur nette du talon) et sans semelle moulée intérieure, le pied fonctionne normalement et tout le corps en est renforcé ; les blessures sont beaucoup moins fréquentes qu'avec des chaussures de course classiques. Celles-ci permettent certes de poser le talon en premier pour allonger sa foulée, mais bloquent le fonctionnement naturel du corps, donnent une mauvaise posture et transfèrent l'absorption du choc résiduel aux genoux.
