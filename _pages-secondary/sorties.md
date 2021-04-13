@@ -10,11 +10,9 @@ summary: Venez courir avec nous !
 
 Nous organisons des sorties d'initiation, de découverte de la foulée naturelle et de partage d'expérience le premier dimanche de chaque mois à Paris, le matin, selon le calendrier qui suit.
 Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent découvrir une nouvelle façon de courir sans se blesser et nous organisons des ateliers courts de course pieds nus sur du sable ou de l'herbe, selon l'endroit.
-L'accès est libre et gratuit de 5 à 105 ans, sans réservation. Voir plus bas pour les lieux de rendez-vous exacts.​
+L'accès est libre et gratuit de 5 à 105 ans, sans réservation. Bien entendu et Covid oblige, nous sommes masqués sans pour ceux qui préfèrent courir sans masque, les sandales sont désinfectées avant chaque prêt et tout le monde est prié de courir à 3m de son voisin !
+Voir plus bas pour les lieux de rendez-vous exacts.​
 
-- Dimanche 7 février 2021 : Quai Rive Gauche / Piscine Joséphine Baker
-- Dimanche 7 mars 2021 : Parc Montsouris
-- Dimanche 4 avril 2021 : Stade Suzanne Lenglen
 - Dimanche 2 mai 2021 : Bois de Vincennes
 - Dimanche 6 juin 2021 : Quai Rive Gauche / Piscine Joséphine Baker
 - Dimanche 4 juillet 2021 : Parc Montsouris
