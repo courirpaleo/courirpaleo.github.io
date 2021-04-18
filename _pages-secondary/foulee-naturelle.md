@@ -1,9 +1,9 @@
 ---
-title: La foulée naturelle
+title: La foulée naturelle et minimaliste selon Courir Paléo, club de course
 description: Tout comprendre sur le bout des doigts de pieds
 summary: Tout comprendre sur le bout des doigts de pieds
 ---
-
+![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentier_sandale_1200px.jpg)
 # La foulée naturelle
 ## Tout comprendre sur le bout des doigts de pieds !
 
