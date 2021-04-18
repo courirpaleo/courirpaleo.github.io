@@ -28,7 +28,7 @@ Nous aidons donc chacun à ressentir ce qui se passe dans le pied, la jambe, le 
 
 ### En chaussures, en sandales ou pieds nus
 
-Des coureurs viennent nous rejoindre car ils se blessent, car leur kiné leur a dit qu'ils devaient passer au vélo ou à la natation, alors qu'ils peuvent encore courir 40 ans s'ils retrouvent leur foulée d'enfant ! D'autres sont juste curieux, minimalistes d'esprit et nous leur donnons les éléments techniques qui leur manquaient pour ajouter la course naturelle à leur mode de vie simple et efficiente.
+Des coureurs viennent nous rejoindre car ils se blessent, car leur kiné leur a dit qu'ils devaient passer au vélo ou à la natation, alors qu'ils peuvent encore courir 40 ans s'ils retrouvent leur foulée d'enfant&nbsp;! D'autres sont juste curieux, parfois minimalistes d'esprit et nous leur donnons les éléments techniques qui leur manquaient pour ajouter la course naturelle à leur mode de vie simple et efficiente.
 
 Nous ne sommes pas hostiles à la technologie, mais nous pensons que notre corps humain est formidable et qu'il est capable de tellement de choses tout seul, sans artifices ! Alors nous aidons femmes, hommes et enfants ou adolescents à être encore mieux dans leur corps, à courir mieux et avec plaisir, en dépensant moins d'argent dans leur équipement et en faisant confiance à leur formidable potentiel naturel au lieu de chercher la solution à un maux ou une douleur dans un gadget, voire une opération chirurgicale. Certes, parfois celle-ci est nécessaire, bien sûr, mais notre corps est aussi capable de se réparer et de se guérir tout seul comme un grand. Il suffit de savoir comment.
 
