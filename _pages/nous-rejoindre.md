@@ -1,6 +1,5 @@
 ---
 title: Nous rejoindre - Association Courir Paléo, club de course minimaliste
----
 description: Comment rejoindre le club et l'association Courir Paléo, à Paris, en province ou en régions
 summary: Comment rejoindre le club et l'association Courir Paléo, à Paris, en province ou en régions
 ---
