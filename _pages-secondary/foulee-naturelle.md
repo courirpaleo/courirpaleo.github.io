@@ -7,13 +7,13 @@ summary: Tout comprendre sur le bout des doigts de pieds
 # La foulée naturelle
 ## Tout comprendre sur le bout des doigts de pieds
 
-### Courez comme la Nature et votre anatomie l'ont prévu&nbsp;!
-
 En courant pieds nus, en sandales ou avec des chaussures sans amorti, sans «&nbsp;drop&nbsp;» (la hauteur relative du talon) et sans semelle moulée intérieure, le pied fonctionne normalement et tout le corps en est renforcé. Les blessures sont beaucoup moins fréquentes qu'avec des chaussures de course ou de running classiques. Celles-ci permettent certes de poser le talon en premier pour allonger sa foulée, mais bloquent le fonctionnement naturel du corps, donnent une mauvaise posture et transfèrent l'absorption du choc résiduel aux genoux.
+
+### La Nature a tout prévu&nbsp;!
 
 Enfants, nous courions libres, sans entraves, souvent pieds nus et sans jamais nous soucier d'un quelconque choc à chaque foulée. Adultes, la majorité d'entre nous croient, depuis les années 1960, qu'il faut investir dans des chaussures de course ou de running sophistiquées, qui amortissent le choc du talon au sol. Problème : ce choc n'a aucune raison d'être, puisque notre corps n'est tout simplement pas fait pour poser le talon en premier en courant ! C'est en marchant que l'on pose le talon en premier, et là c'est normal, puisque le poids de notre corps est transféré d'une jambe à l'autre à chaque pas, sans s'élever ni retomber. La marche n'occasionne qu'un choc minime, prévu et salutaire, sur le talon, afin de renvoyer le sang vers le haut du corps comme une pompe ; c'est pour cela qu'il faut marcher et ne pas être sédentaire - cette pompe naturelle créée par la marche évite les jambes lourdes.
 
-#### Une affaire de sensations
+### Une affaire de sensations
 
 Quand on court, c'est différent : on vole un très bref instant et donc, forcément, on retombe de tout son poids sur un pied, comme en sautant d'un rocher à chaque foulée. Qui tomberait alors sur les talons ? Personne. Evidemment, tout le monde tombe alors sur l'avant des pieds, les jambes légèrement fléchies pour amortir le choc. Celles et ceux qui portent des talons retireraient même leurs chaussures pour mieux se réceptionner car, avec un talon haut, le pied ne peut pas effectuer un mouvement vers le bas d'amortissant du choc après avoir touché le sol en premier sur l'avant du pied.
 
@@ -27,7 +27,7 @@ Réapprendre à courir doit se faire doucement, intelligemment, en cherchant à 
 
 Nous aidons donc chacun à ressentir ce qui se passe dans le pied, la jambe, le dos, les épaules, la tête, etc. quand on court ; par des démonstrations et des exercices simples, sans forcer et très prudemment, nous permettons à chacun de savoir où et comment porter son effort pour trouver ou retrouver sa foulée normale.
 
-#### En chaussures, en sandales ou pieds nus
+### En chaussures, en sandales ou pieds nus
 
 Des coureurs viennent nous rejoindre car ils se blessent, car leur kiné leur a dit qu'ils devaient passer au vélo ou à la natation, alors qu'ils peuvent encore courir 40 ans s'ils retrouvent leur foulée d'enfant ! D'autres sont juste curieux, minimalistes d'esprit et nous leur donnons les éléments techniques qui leur manquaient pour ajouter la course naturelle à leur mode de vie simple et efficiente.
 
