@@ -1,5 +1,5 @@
 ---
-title: La foulée naturelle et minimaliste selon Courir Paléo, club de course
+title: La foulée naturelle et minimaliste selon Courir Paléo
 description: Tout comprendre sur le bout des doigts de pieds
 summary: Tout comprendre sur le bout des doigts de pieds
 ---
