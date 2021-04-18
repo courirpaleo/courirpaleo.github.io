@@ -37,6 +37,8 @@ Quant aux chaussures, et bien elles sont conçues pour protéger nos pieds du fr
 
 C'est pourquoi nous laissons chacun choisir son style de chaussures ou de courir sans. Pieds nus, le pied sent mieux le terrain et travaille de manière idéale, mais chacun a le droit à son petit confort et pourquoi se faire mal aux pieds en courant sur des cailloux&nbsp;? Depuis la nuit des temps, les femmes et les hommes se sont fabriqués des sandales pour les pays chauds et des bottes pour les pays froids. Ne changeons rien et laissons chacun faire comme il ou elle le souhaite. 
 
+![Courir Paleo](/assets/images/CourirPaleo_Vincennes_VFF_1080px.jpg)
+
 Aujourd'hui, de nombreuses marques de chaussures minimalistes proposent de très bons modèles pour toute saison, bas ou montants, ainsi que des sandales toutes faites ou des kits pour les réaliser, comme les huaraches des Tarahumara. Celles-ci peuvent aussi être coupées dans un bout de pneu ou de cuir pour les puristes ou les bricoleurs&nbsp;-&nbsp;chacun fait comme il veut et selon son esprit, libre et indépendant. Liés avec aucune marque, nous ne faisons que prodiguer à chacun des conseils pour vous permettre de trouver la bonne chaussure ou la bonne sandale minimaliste, ou bien de courir pieds nus sans vous blesser ni avoir froid ou trop chaud.
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_sorties_sandales_pret_1200px.jpg)
