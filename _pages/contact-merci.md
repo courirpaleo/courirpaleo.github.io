@@ -1,6 +1,7 @@
 ---
 title: Contact | Merci d'avoir contacté Courir Paléo
 ---
+![Courir Paleo](/assets/images/Logo-Courir-Paleo-long-blanc-1200px.png)
 # Courir Paléo
 
 ### Merci de nous avoir contacté

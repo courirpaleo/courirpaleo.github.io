@@ -1,6 +1,7 @@
 ---
 title: Contactez Courir Paléo, association et club de course naturelle et minimaliste
 ---
+![Courir Paleo](/assets/images/Logo-Courir-Paleo-long-orange-1200px.png)
 # Contactez Courir Paléo
 
 ### Renseignements & newsletter
