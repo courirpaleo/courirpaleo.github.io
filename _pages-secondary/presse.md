@@ -16,7 +16,7 @@ Lors d'une sortie découverte au parc Suzanne Lenglen de Paris en 2019 (voir pho
 
 ### M6 : un marathonien aux pieds nus
 ![Courir Paleo](/assets/images/CourirPaleo_M6_marathon_Ludovic_1200px.jpg)
-Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3h41. Une aventure suivie par Mégane Guillaume pour M6 dans le journal de 19h45 du dimanche 14 avril 2019. Ce reportage est également indisponible en replay mais Ludovic pourra vous raconter son marathon si vous nous rejoignez. En même temps que lui, M6 avait aussi suivi une jeune femme courant les 42,195 km en talons aiguilles&nbsp;!
+Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3h41. Une aventure suivie par Mégane Guillaume pour M6 dans le journal de 19h45 du dimanche 14 avril 2019. Ce reportage est également indisponible en replay mais Ludovic pourra vous raconter son marathon si vous nous rejoignez. En même temps que lui, M6 avait aussi suivi une jeune femme courant les 42,195&nbsp;km en talons aiguilles&nbsp;!
 
 
 ### Le Journal du Runner - Spécial Marathon de Paris
