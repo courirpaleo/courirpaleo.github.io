@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Prochaines sorties de Courir Paléo à Paris
 description: Venez courir avec nous !
 summary: Venez courir avec nous !
