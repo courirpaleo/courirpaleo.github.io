@@ -46,4 +46,4 @@ Aujourd'hui, de nombreuses marques de chaussures minimalistes proposent de très
 
 Nous prêtons des sandales de marques Unshoes ou Xero Shoes ainsi que des modèles fabriqués par nos soins à celles et ceux qui viennent découvrir la course naturelle lors de nos sorties. Les sandales sont bien plus pratiques que les chaussures fermées pour cette initiation, sont disponibles en plusieurs tailles et s'adaptent à toutes les formes de pieds ou légère différence de taille entre les deux pieds grâce au réglage fourni par leurs sangles ou leur cordelette. Bien entendu, et nous n'avions pas attendu le coronavirus pour le faire, nous les désinfectons toujours avant chaque prêt&nbsp;!
 
-![Courir Paleo](/assets/images/CourirPaleo_huaraches_cuir_marocain_1200px.jpg)
+Alors à bientôt&nbsp;?
