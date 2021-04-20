@@ -5,7 +5,7 @@ title: Contact | Merci d'avoir contacté Courir Paléo
 
 ### Merci de nous avoir contacté
 
-<font size="300%">&check;</font>
+<font size="300%" color="#06CF60">&check;</font>
 
 Nous avons bien reçu votre message et nous vous répondrons très vite, le plus souvent sous 24&nbsp;heures.
 
