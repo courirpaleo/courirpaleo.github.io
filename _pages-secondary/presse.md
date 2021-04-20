@@ -24,11 +24,11 @@ Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3
 Merci à Véronique Bury pour nous avoir suivi lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [la double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
 
 
-###Le Figaro Madame
+### Le Figaro Madame
 Merci à Tiphaine Honnet du Figaro Madame de nous avoir interviewé pour [son article «&nbsp;Running&nbsp;: faut-il se mettre aux chaussures minimalistes&nbsp;?&nbsp;», du 1er mars 2019](https://madame.lefigaro.fr/bien-etre/running-faut-il-se-mettre-aux-chaussures-minimalistes-baskets-010319-164044).
 
 
-###Néon
+### Néon
 Merci à Léa Esmery de Néon d'avoir courageusement essayé la course naturelle avec nous au parc Montsouris en février 2018&nbsp;: [«&nbsp;Je suis allée courir pieds nus avec les adeptes du barefoot running&nbsp;»](https://www.neonmag.fr/je-suis-alle-courir-pieds-nus-avec-les-adepte-du-barefoot-running-502371.html).
 
 
