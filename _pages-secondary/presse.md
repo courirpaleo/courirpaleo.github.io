@@ -9,19 +9,20 @@ summary: Les médias parlent de Courir Paléo
 
 Nous avons eu la chance d'intéresser des médias qui nous ont trouvé sympathiques ou curieux&nbsp;! En effet, quoi de plus naturel que de courir comme prévu par notre anatomie et pas comme le voudraient pour nous des fabricants de chaussures de course classiques&nbsp;?
 
+
 ### M6 : une bande de joyeux drilles sur piste et en tout-terrain
 Lors d'une sortie découverte au parc Suzanne Lenglen de Paris en 2019 (voir photo plus haut en ouverture), une équipe de M6 est venue filmer notre joyeuse bande de coureurs libres qui trottent sans entraves et sans blessures&nbsp;! Ce reportage n'est plus disponible en rediffusion, mais nous pourrons vous en montrer des extraits en projection privée au sein du club.
+
 
 ### M6 : un marathonien aux pieds nus
 ![Courir Paleo](/assets/images/CourirPaleo_M6_marathon_Ludovic_1200px.jpg)
 Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3h41. Une aventure suivie par Mégane Guillaume pour M6 dans le journal de 19h45 du dimanche 14 avril 2019. Ce reportage non plus n'est plus disponible en replay mais Ludovic pourra vous en parler si vous nous rejoignez&nbsp;!
 
+
 ### Double page dans L'Équipe (magazine)
 ![Courir Paleo](/assets/images/CourirPaleo_couv_Equipe_Mag_1200px.jpg)
 Nous sommes heureux et flattés que Courir Paléo ait été cité dans «&nbsp;L’Équipe&nbsp;» (magazine) n°1836 du samedi 23 septembre 2017. Trois pages d'ouverture de la rubrique Tendances dans lesquelles Bruno Garay (texte) et Julien Faure (photos) mettent «&nbsp;Les pieds dans le plat&nbsp;» (c'est le titre) pour parler de cette «&nbsp;frange d'irréductibles joggers qui prône un retour aux sensations originelles de la course&nbsp;».
 
+
 ### Le Journal du Runner - mars 2019 - Spécial Marathon de Paris
-Merci à Véronique Bury du Journal du Runner spécial marathon de Paris 2019 pour nous avoir suivi lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans la double page «&nbsp;Les aficionados du barefoot&nbsp;».
-
-You can [double page](https://courirpaleo.github.io/assets/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) here.
-
+Merci à Véronique Bury pour nous avoir suivi lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
