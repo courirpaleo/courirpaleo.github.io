@@ -4,7 +4,7 @@ title: Mentions légales
 # Mentions légales
 
 ### Introduction
-Ce site est édité par Courir Paléo, association française loi du 1er juillet 1901, créée le 13 mai 2017 sous le numéro RNA W912009574, domiciliée au 15 allée Lavoisier à Yerres (Essonne), 91330, France.
+Ce site est édité par Courir Paléo, association française loi du 1er juillet 1901, créée le 13 mai 2017 sous le numéro RNA W912009574, domiciliée allée Lavoisier à Yerres (Essonne), 91330, France.
 
 Responsable de la publication du site : Benoît Quémar, président de l’association, joignable à l'adresse de courriel info@courirpaleo.fr ou par téléphone au +33 6 76 13 17 85.
 
