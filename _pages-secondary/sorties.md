@@ -18,6 +18,7 @@ Voir plus bas pour les lieux de rendez-vous exacts.​
 - Dimanche 4 juillet 2021&nbsp;: Parc Montsouris
 - Dimanche 1er août 2021&nbsp;: Stade Suzanne Lenglen
 ​
+
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
 ### Format
 Accueil de 9h30 à 10h.
