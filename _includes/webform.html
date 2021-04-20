@@ -10,9 +10,9 @@
 <!--  REMARQUE : Ajoutez l'élément suivant <FORM> à votre page.               -->
 <!--  ----------------------------------------------------------------------  -->
 
-<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
+<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 
-<input type=hidden name="orgid" value="00D3X000004VJL7">
+<input type=hidden name="oid" value="00D3X000004VJL7">
 <input type=hidden name="retURL" value="https://courirpaleo.github.io/contact-merci">
 
 <!--  ----------------------------------------------------------------------  -->
@@ -23,18 +23,17 @@
 <!--  <input type="hidden" name="debugEmail" value="info@courirpaleo.fr">     -->
 <!--  ----------------------------------------------------------------------  -->
 
-<label for="name">Nom</label><br>
-<input  id="name" maxlength="80" name="name" size="20" type="text" /><br>
+<label for="last_name">Nom</label><br>
+<input  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br>
 
 <label for="email">Email</label><br>
 <input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
 
-<label for="phone">Téléphone</label><br>
-<input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
+<label for="city">Ville</label><br>
+<input  id="city" maxlength="40" name="city" size="20" type="text" /><br>
 
 <label for="description">Question</label><br>
 <textarea name="description"></textarea><br>
-
 <input type="submit" name="submit" value="Envoyer">
 
 </form>
