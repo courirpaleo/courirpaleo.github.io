@@ -14,6 +14,6 @@ Pour toute information sur la course naturelle, sur nos activités ou pour vous 
 
 Nous répondons sous 24 heures. À bientôt !
 
-*Attention, très souvent notre opérateur ne nous prévient ni des messages vocaux ni des appels manqués, alors si nous ne répondons pas sous 24 heures c'est que nous n'avons pas eu votre message)
+*Attention, très souvent notre opérateur téléphonique ne nous prévient ni des messages vocaux ni des appels manqués, alors si nous ne répondons pas sous 24&nbsp;heures c'est que nous n'avons pas eu votre message.
 
 Pour essayer la course naturelle en toute liberté, consultez <a href="sorties">la page de nos sorties parisiennes</a> le premier dimanche de chaque mois.
