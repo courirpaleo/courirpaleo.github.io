@@ -26,7 +26,7 @@ Nous courons ou effectuons des démonstrations de 10h à 11h environ.
 Parfois nous terminons par un café ou un verre pour ceux qui le souhaitent (quand les cafés seront rouverts&nbsp;!).
 
 ### Lieux de rendez-vous
-- Parc Montsouris&nbsp;: devant [LA Bonbonnière](https://goo.gl/maps/RUvVHuyTAXZ8Kg8XA).
+- Parc Montsouris&nbsp;: devant [La Bonbonnière](https://goo.gl/maps/RUvVHuyTAXZ8Kg8XA).
 - Bois de Vincennes&nbsp;: devant [le loueur de barques du lac Daumesnil](https://goo.gl/maps/cTo9py5b5GwrV8KC9), côté Porte Dorée.
 - Stade Suzanne Lenglen&nbsp;: devant [les gradins autour de la piste d'athlétisme](https://goo.gl/maps/dx16s8HVGmrYxbMb8), coté ouest.
 - Quai Rive Gauche&nbsp;: devant [la piscine Joséphine Baker](https://g.page/PiscineJosephineBaker?share).
