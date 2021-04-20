@@ -14,7 +14,7 @@ Beaucoup de belles choses à découvrir chez eux&nbsp;:
 
 ### Photos
 Toutes les photographies visibles sur notre site ont été prises par les amateurs de course naturelle qui ont participé à nos sorties ou par les membres du bureau de l'association. Tous ont cédé à Courir Paléo les droits de ces images.
-Si vous êtes journaliste et que vous souhaitez réutiliser une image vue sur ce site ou si vous avez besoin d'une photo haute-définition de course minimaliste pour votre parution, contactez-nous et nous vous pointerons vers notre mini banque d'images.
+Si vous êtes journaliste et que vous souhaitez réutiliser une image vue sur ce site ou si vous avez besoin d'une photo haute-définition de course minimaliste pour votre parution, [contactez-nous](/contact) et nous vous pointerons vers notre mini banque d'images.
 
 ### Création du site Internet
 Merci à Paul Laffitte, développeur Web, de talent lui aussi, qui nous a installé et configuré Jekyll sur GitHub avec un modèle de site déniché et adapté d'ailleurs par Anton afin de pouvoir vous offrir cet espace minimaliste et épuré lui aussi&nbsp;!
