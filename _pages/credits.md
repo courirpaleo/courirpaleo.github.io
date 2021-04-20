@@ -1,7 +1,7 @@
 ---
 title: Crédits des contenus du site - Association Courir Paléo
 ---
-![Courir Paleo](/assets/images/Logo-Courir-Paleo-long-orange-1200px.png)
+![Courir Paleo](/assets/images/Logo-Courir-Paleo-long-blanc-1200px.png)
 # Crédits
 
 Remercions les artistes et les professionnels&nbsp;!
