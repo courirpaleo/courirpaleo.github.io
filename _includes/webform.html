@@ -1,0 +1,36 @@
+<!--  ----------------------------------------------------------------------  -->
+<!--  REMARQUE : Ajoutez l'élément suivant <META> à votre page <HEAD>. Si     -->
+<!--  nécessaire, modifiez le paramètre charset pour spécifier le jeu de      -->
+<!--  caractères de votre page HTML.                                          -->
+<!--  ----------------------------------------------------------------------  -->
+
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  REMARQUE : Ajoutez l'élément suivant <FORM> à votre page.               -->
+<!--  ----------------------------------------------------------------------  -->
+
+<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
+
+<input type=hidden name="orgid" value="00D3X000004VJL7">
+<input type=hidden name="retURL" value="https://courirpaleo.github.io/contact-merci">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  REMARQUE : Ces champs sont des éléments de débogage facultatifs.        -->
+<!--  N'insérez aucun commentaire sur ces lignes si vous voulez tester en     -->
+<!--  mode débogage.                                                          -->
+<!--  <input type="hidden" name="debug" value=1>                              -->
+<!--  <input type="hidden" name="debugEmail" value="info@courirpaleo.fr">     -->
+<!--  ----------------------------------------------------------------------  -->
+
+<label for="name">Nom</label><input  id="name" maxlength="80" name="name" size="20" type="text" /><br>
+
+<label for="email">E-mail</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
+
+<label for="phone">Téléphone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
+
+<label for="description">Question</label><textarea name="description"></textarea><br>
+
+<input type="submit" name="Envoyer">
+
+</form>
