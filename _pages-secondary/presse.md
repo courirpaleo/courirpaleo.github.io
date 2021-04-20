@@ -20,7 +20,6 @@ Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3
 
 
 ### Le Journal du Runner - mars 2019 - Spécial Marathon de Paris
-![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_crique_1200px.jpg)
 Merci à Véronique Bury pour nous avoir suivi lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [la double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
 
 
