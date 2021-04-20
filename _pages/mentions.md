@@ -1,6 +1,7 @@
 ---
-title: Mentions légales
+title: Courir Paléo | Mentions légales du site Internet de l'association
 ---
+![Courir Paleo](/assets/images/Logo-Courir-Paleo-long-orange-1200px.png)
 # Mentions légales
 
 ### Introduction
@@ -23,5 +24,5 @@ L'utilisateur de ce site reconnaît disposer de la compétence et des moyens né
 Courir Paléo s'attache à transmettre des informations régulièrement mises à jour, notamment sur les actualités ainsi que sur le contenu des articles. Toutefois des informations erronées ou des omissions peuvent être constatées, suite notamment à des erreurs de saisie ou de mise en page. Si vous en faisiez le constat nous vous invitons à nous le signaler pour que nous puissions procéder à leur rectification. Nous nous réservons par ailleurs le droit de modifier les informations ou les éventuelles offres commerciales fournies par le présent site, dans le cadre de nos opérations d'actualisation et de mise à jour des données, et ce sans préavis. Les liens hypertextes mis en œuvre au sein du présent site Internet, en direction d'autres sites et/ou de pages personnelles et d'une manière générale vers toutes ressources existantes sur Internet, ne sauraient engager la responsabilité de Courir Paléo. De même, l’association Courir Paléo ne pourra en aucune façon être tenue pour responsable des sites ayant un lien hypertexte avec le présent site et décline toute responsabilité quant à leur contenu et à leur utilisation.
 
 ### Autres conditions générales d'utilisation
-Voir la page <a href="/cgu">CGU</a>.
+Voir la page [CGU](/cgu).
 
