@@ -34,4 +34,4 @@ Merci à Léa Esmery de Néon d'avoir courageusement essayé la course naturelle
 ### L'Équipe (magazine)
 ![Courir Paleo](/assets/images/CourirPaleo_couv_Equipe_Mag_1200px.jpg)
 Nous sommes heureux et flattés que Courir Paléo ait été cité dans «&nbsp;L’Équipe&nbsp;» (magazine) n°1836 du samedi 23 septembre 2017. Trois pages d'ouverture de la rubrique Tendances dans lesquelles Bruno Garay (texte) et Julien Faure (photos) mettent «&nbsp;Les pieds dans le plat&nbsp;» (c'est le titre) pour parler de cette «&nbsp;frange d'irréductibles joggers qui prône un retour aux sensations originelles de la course&nbsp;».
-Lire [le reportage sur Courir Paléo dans L'Équipe Magazine](https://courirpaleo.github.io/assets/documents/LEquipe-Mag-23-09-2017-Tendances.pdf)
+Lire [le reportage sur Courir Paléo dans L'Équipe Magazine](https://courirpaleo.github.io/assets/documents/LEquipe-Mag-23-09-2017-Tendances.pdf).
