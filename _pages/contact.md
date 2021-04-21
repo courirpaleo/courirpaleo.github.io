@@ -8,7 +8,7 @@ title: Contactez Courir Paléo, association et club de course naturelle et minim
 
 Pour essayer la course naturelle en toute liberté si vous êtes francilien.ne, consultez [la page de nos sorties parisiennes](/sorties) le premier dimanche de chaque mois.
 
-Pour toute information sur la course naturelle, sur nos activités ou pour recevoir notre newsletter gratuite, contactez Benoît, notre fondateur&nbsp;; l répond sous 24 heures*. À bientôt&nbsp;!
+Pour toute information sur la course naturelle, sur nos activités ou pour recevoir notre newsletter gratuite, contactez Benoît, notre fondateur&nbsp;; ll répond sous 24 heures*. À bientôt&nbsp;!
 - email (préférable)&nbsp;: <a href="mailto:info@courirpaleo.fr">info@courirpaleo.fr</a>
 - sms ou par téléphone&nbsp;: +33 6 76 13 17 85
 - formulaire&nbsp;:
