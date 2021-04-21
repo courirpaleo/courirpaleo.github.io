@@ -12,12 +12,15 @@ Beaucoup de belles choses à découvrir dans leurs espaces&nbsp;:
 - Anton Moglia : [moglia.fr](http://moglia.fr)
 - Elisa Denève : [asile.studio](http://asile.studio)
 
-### Photos
-Toutes les photographies visibles sur notre site ont été prises par les amateurs de course naturelle qui ont participé à nos sorties ou par les membres du bureau de l'association. Tous ont cédé à Courir Paléo les droits de ces images.
-Si vous êtes journaliste et que vous souhaitez réutiliser une image vue sur ce site ou si vous avez besoin d'une photo haute-définition de course minimaliste pour votre parution, [contactez-nous](/contact) et nous vous pointerons vers notre mini banque d'images.
-
 ### Création du site Internet
 Ce site Internet est minimaliste lui aussi, comme notre approche de la course. Minimaliste dans son design et minimaliste car il utilise le générateur de sites statiques [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel)). Grâce à Jekyll, aucune ligne de code inutile, rien que l'essentiel et un hébergement de pages Web qui consomme peu d'énergie&nbsp;! Soyons tous frugaux dans nos vies réelles et numériques.
-Nous remercions vivement Paul Laffitte, développeur Web, de talent lui aussi, qui nous a installé et configuré Jekyll sur GitHub avec un modèle de site déniché et adapté d'ailleurs par Anton afin de pouvoir vous offrir cet espace que nous avons souhaité sobre et efficace tout en étant élégant.
+
+C'est pour cela que nous remercions également ici Paul Laffitte, développeur Web tout aussi talentueux que nos artistes graphiques, qui nous a installé et configuré Jekyll sur GitHub avec un modèle de site déniché et adapté d'ailleurs par Anton afin de pouvoir vous offrir cet espace que nous avons souhaité sobre et efficace tout en étant élégant.
 - [Paul Laffitte sur LinkedIn](https://fr.linkedin.com/in/paul-laffitte)
+
+### Photos
+Toutes les photographies visibles sur notre site ont été prises par les amateurs de course naturelle qui ont participé à nos sorties ou par les membres du bureau de l'association. Tous ont cédé à Courir&nbsp;Paléo les droits de ces images.
+Si vous êtes journaliste et que vous souhaitez réutiliser une image vue sur ce site ou si vous avez besoin d'une photo haute-définition de course minimaliste pour votre parution, [contactez-nous](/contact) et nous vous pointerons vers notre mini banque d'images.
+
+
 
