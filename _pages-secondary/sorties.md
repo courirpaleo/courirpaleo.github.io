@@ -1,7 +1,7 @@
 ---
 title: Courir Paléo | Prochaines sorties à Paris
 description: Venez courir avec nous !
-summary: Venez courir avec nous !
+summary: Venez courir avec nous et vous sentir légers !
 ---
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_table_1200px.jpg)
 # Prochaines sorties à Paris

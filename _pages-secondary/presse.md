@@ -1,7 +1,7 @@
 ---
-title: Courir Paléo | Revue de presse et médias
+title: Courir Paléo | Revue de presse
 description: Sélection d'articles de presse et de médias qui parlent de Courir Paléo
-summary: Les médias parlent de Courir Paléo
+summary: Les médias parlent de Courir Paléo et de la course naturelle
 ---
 ![Courir Paleo](/assets/images/CourirPaleo_SuzanneLenglen_M6_piste_face_1200px.JPG)
 # Presse & médias
