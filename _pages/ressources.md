@@ -10,7 +10,7 @@ Nous ne savons pas tout mais dans la vie le plus important c'est de se poser des
 
 ### Libérons nos pieds&nbsp;!
 ![Courir Paleo](/assets/images/CourirPaleo_semelles_bottines_1200px.jpg)
-Chez nous, soyons pieds nus le plus souvent possibles, en babouches, en mules, en claquettes, en espadrilles ou en chaussettes (attention de ne pas glisser), mais le plus près possible du sol et sans aucune semelle moulée. Notre pied est fait pour être naturellement arqué et pour être en tension. Sa voûte plantaire ne doit surtout pas être «&nbsp;soutenue&nbsp;» par en dessous (poussez une voûte de construction par en dessous et vous la cassez - appuyer dessus et vous la renforcez...).
+Chez nous, soyons pieds nus le plus souvent possibles, en babouches, en mules, en claquettes, en espadrilles ou en chaussettes (attention de ne pas glisser), mais le plus près possible du sol et sans aucune semelle moulée. Notre pied est fait pour être naturellement arqué et pour être en tension. Sa voûte plantaire ne doit surtout pas être «&nbsp;soutenue&nbsp;» par en dessous (poussez une voûte de construction par en dessous et vous la cassez&nbsp;&mdash;&nbsp;appuyez dessus et vous la renforcez...).
 Dans vos bottes, bottines, boots, chaussures de randonnées, mocassins, baskets... retirez la semelle intérieure moulée et remplacez-là par une simple semelle de cuir, de laine ou de mousse achetée chez votre coordonnier. Au moins, votre voûte plantaire retrouvera sa tonicité et ne sera plus avachie et affaissée par ce faux support qui lui fait plus de mal que de bien.
 
 ![Courir Paleo](/assets/images/Courir-Paleo-pieds-nus-pelouse-1200px.jpg)
