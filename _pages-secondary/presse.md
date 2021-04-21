@@ -20,7 +20,7 @@ Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3
 
 ### Kaizen&nbsp;: «&nbsp;Pieds nus pour renouer avec la Terre&nbsp;»
 ![Courir Paleo](/assets/images/CourirPaleo_Kaizen-numero-51_1200px.jpg)
-Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dans le numéro de la revue Kaizen de juillet-août 2020. Un bel exemple de reconnexion avec la Nature et de profiter de ll'énergie de la Terre en étant plus près d'elle, pieds nus ou en tout cas plus près du sol&nbsp;!
+Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dans le numéro 51 de la revue Kaizen de juillet-août 2020. Un papier qui rassemble plusieurs exemples de reconnexion avec la Nature et de profiter de l'énergie de la Terre en étant plus près d'elle, pieds nus&nbsp;!
 [Lire ou acheter le n°51 de Kaizen](https://boutique.kaizen-magazine.com/bimestriels/616-kaizen-51.html)
 
 
