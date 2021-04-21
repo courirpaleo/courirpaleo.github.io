@@ -49,7 +49,7 @@ Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce
 
 ### In English please
 ![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
-Si vous lisez l'anglais, ne loupez pas ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
+Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
 
 ### Technique & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
