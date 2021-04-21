@@ -40,7 +40,7 @@ Toujours chez Guérin, Jean-Philippe nous permet aussi&nbsp;:
 - De connaître les secrets d'un des meilleurs entraîneurs mondiaux, Eric Orton, dans «&nbsp;No limit - Le trail en harmonie&nbsp;».
 - De découvrir dans «&nbsp;Bêtes de course&nbsp;» comment observer le règne animal a permis à Bernd&nbsp;Heinrich d'acquérir des capacités d'endurance hors-normes&nbsp;&mdash;&nbsp;et donc comment faire pareil à notre niveau, même modestement.
 
-Et cette belle collection rouge ne serait, bien sûr, pas complète, sans ce bel ouvrage signé de Jean-Philippe, ultra-traileur et écrivain lui-même&nbsp;:
+Et cette belle collection rouge ne serait, bien sûr, pas complète, sans ce bel ouvrage signé cette fois de Jean-Philippe, écrivain lui-même en plus d'être ultra-traileur&nbsp;:
 - «&nbsp;La Folle Histoire du trail&nbsp;», ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si ici chez Courir Paléo nous ne recommandons pas les chaussures maximalistes ou classiques&nbsp;!
 
 ![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
