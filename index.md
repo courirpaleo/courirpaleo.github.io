@@ -7,7 +7,7 @@ title: Courir Paléo, club de course minimaliste et naturelle, association à Pa
 
 Inspirés par les Tarahumara et bien d’autres coureurs naturels d’hier et d'aujourd'hui, nous prônons de courir de la seule manière que notre corps a prévue pour nous, sans heurts, sans chocs et sans blessures, d’une foulée légère en attaquant le sol de l'avant ou de la partie médiane du pied. Courir, ce n’est pas marcher vite&nbsp;! Quand vous sautez d’un muret, vous vous réceptionnez sur les talons&nbsp;? Alors nous sommes là pour aider ceux qui veulent courir léger à trouver ou retrouver leur foulée naturelle.
 
-Beaucoup de nos adhérentes ou adhérents ont aussi adopté une alimentation de type paléolithique ou tout au moins naturelle et originelle elle aussi, sans produits transformés ni industriels, pauvre en céréales, riche en fruits et légumes de saisons et en bonnes graisses végétales ou animales selon les choix de chacun.
+Parmi nos membres et les personnes participants à nos ateliers, beaucoup ont aussi adopté une alimentation de type paléolithique ou tout au moins naturelle et originelle elle aussi, sans produits transformés ni industriels, pauvre en céréales, riche en fruits et légumes de saisons et en bonnes graisses, végétales ou animales selon les choix de chacun.
 
 Au sein de Courir Paléo, nous partageons les informations, les astuces et les bonnes pratiques&nbsp;; nous aidons chacun à réussir sa transition vers une foulée légère et naturelle, en pleine forme sans gadgets ni accessoires.
 
