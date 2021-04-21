@@ -53,7 +53,7 @@ Si vous lisez l'anglais, ne loupez pas ["The Cretan Runner"](https://www.waterst
 
 ### Technique & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
-Coté technique et anatomie, tous les livres de Frédéric Brigaud chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à lire, relire et conserver dans son sac de sport&nbsp;:
+Coté technique et anatomie, tous les livres de Frédéric Brigaud chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
 - [Guide de la foulée (avec prise d'appui avant-pied)](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html)
 - [Corriger le pied sans semelle](https://www.adverbum.fr/editions-desiris/frederic-brigaud/corriger-le-pied-nouvelle-edition_kmc5fm7vaovo.html)
 
