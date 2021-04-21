@@ -15,15 +15,15 @@ Dans vos bottes, bottines, boots, chaussures de randonnées, mocassins, baskets.
 
 ![Courir Paleo](/assets/images/Courir-Paleo-pieds-nus-pelouse-1200px.jpg)
 Dès que possible, sentons et ressentons le sol, qu'il s'agisse d'herbe, de plancher, de carrelage, de feuilles... peu importe. Notre peau et tous nos récepteurs proprioceptifs nous aident à nous tenir en équilibre, à être tonique et dynamique. Plus nous nous coupons de nos sensations en éloignant et isolant nos pieds du sol par une grosse semelle, et plus nous le fragilisons, perdons en équilibre et en résistance. Pour ne plus avoir d'entorse, il faut courir avec des chaussures basses et plates et surtout pas montantes qui bloquent la cheville et le pied&nbsp;!
-Cela dit, bien sûr, protégeons-nous des cailloux, du froid et d'un sol brûlant. Courir léger et naturellement ne veut pas dire se faire mal bêtement ou par plaisir, sauf pour celles et ceux qui veulent s'endurcir pour courir par exemple pieds nus dans la neige comme notre ami [Karim El Hayani](https://sport24.lefigaro.fr/scan-sport/actualites/pieds-nus-sur-la-neige-il-pulverise-le-record-du-semi-marathon-1036079)&nbsp;! Mais attention, ne faisons-pas n'importe quoi et toujours petit à petit...
+Cela dit, bien sûr, protégeons-nous des cailloux, du froid et d'un sol brûlant. Courir léger et naturellement ne veut pas dire se faire mal bêtement ou par plaisir, sauf pour celles et ceux qui veulent s'endurcir pour courir par exemple pieds nus dans la neige comme [Karim El Hayani](https://sport24.lefigaro.fr/scan-sport/actualites/pieds-nus-sur-la-neige-il-pulverise-le-record-du-semi-marathon-1036079)&nbsp;! Mais attention, ne faisons-pas n'importe quoi et toujours petit à petit...
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentier_riviere_1200px.jpg)
 ## Entraînement, musculation, souplesse
 D'autres astuces pour gagner en souplesse et en résistance&nbsp;:
-- Accroupissons-nous. Certes, cette position est dévalorisée dans les pays riches et avoir des toilettes avec un siège est perçu comme un progrès dans le confort, mais pourtant c'est une excellente position pour évacuer les selles et &mdash;&nbsp;plus important pour nous ici&nbsp;&mdash; assouplir ses rotules, gagner en souplesse et tonifier jambes et abdominaux. Un de nos membres avait très mal au genou droit à cause d'un ménisque fracturé et déplacé&nbsp;: aujourd'hui, il a justement renforcé son articulation, sans chirurgie ni traitement médicamenteux, en se forçant à s'accroupir et en optant pour une foulée et une pose de pieds minimaliste.
+- Accroupissons-nous. Certes, cette position est dévalorisée dans les pays riches et avoir des toilettes avec un siège est perçu comme un progrès, mais pourtant c'est une excellente position pour évacuer les selles et &mdash;&nbsp;plus important pour nous ici&nbsp;&mdash; assouplir ses rotules, gagner en souplesse et tonifier jambes et abdominaux. Un de nos membres avait très mal au genou droit à cause d'un ménisque fracturé et déplacé&nbsp;: aujourd'hui, il a justement renforcé son articulation, sans chirurgie ni traitement médicamenteux, en se forçant à s'accroupir et en optant pour une foulée et une pose de pieds minimaliste.
 - Tenons-nous souvent sur une jambe, travaillons votre équilibre, avant plus tard de forcer la difficulté en man&oelig;uvrant par exemple nos interrupteurs électriques muraux avec les orteils et en douceur&nbsp;!
 - Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de tennis, des cailloux ou des billes à attraper entre les orteils etc.
-- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marcheons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt.
+- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marcheons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt ou au bord de la mer.
 
 ![Courir Paleo](/assets/images/CourirPaleo_photo_marque_MQ_1200px.jpg)
 ## Alimentation
@@ -33,20 +33,20 @@ Nous sommes d'accord avec [le mea culpa de Tim Noakes](https://www2.u-trail.com/
 ## Lectures
 ### Attention «&nbsp;grands livres rouges&nbsp;»&nbsp;!
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-rouges-1200px.jpg)
-Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désormais cultes de Christopher McDougall, parus chez Guérin, sont incontournables&nbsp;:
-- Dans «&nbsp;Né pour courir&nbsp;» ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumara et surtout qu'il faut courir comme notre corps l'attend, c'est-à-dire surtout pas en posant le talon en premier comme quand on marche (sur ce sujet, [lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
-- Dans «&nbsp;Tous des héros&nbsp;» ("Natural Born Heroes"), il nous emmène en Crête découvrir et revivre une épopée formidable, inouie et héroïque de la Seconde Guerre mondiale, riche en courses mythiques tout en nous démontrant que, pour être dans une forme olympique, point n'est besoin d'aller à la salle de gym ou d'acheter du matériel&nbsp;!
+Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désormais cultes de Christopher McDougall, parus chez Guérin/Paulsen, sont incontournables&nbsp;:
+- Dans [«&nbsp;Né pour courir&nbsp;» ("Born to run")](https://www.editionspaulsen.com/born-to-run-2293.html), il nous fait découvrir ces formidables coureurs Tarahumara et surtout qu'il faut courir comme notre corps l'attend, c'est-à-dire surtout pas en posant le talon en premier comme quand on marche (sur ce sujet, [lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
+- Dans [«&nbsp;Tous des héros&nbsp;» ("Natural Born Heroes")](https://www.editionspaulsen.com/tous-des-heros-1958.html), il nous emmène en Crête découvrir et revivre une épopée formidable, inouie et héroïque de la Seconde Guerre mondiale, riche en courses mythiques tout en nous démontrant que, pour être dans une forme olympique, point n'est besoin d'aller à la salle de gym ou d'acheter du matériel&nbsp;!
 
-Toujours chez Guérin, Jean-Philippe nous permet aussi&nbsp;:
-- De connaître les secrets d'un des meilleurs entraîneurs mondiaux, Eric Orton, dans «&nbsp;No limit - Le trail en harmonie&nbsp;».
-- De découvrir dans «&nbsp;Bêtes de course&nbsp;» comment observer le règne animal a permis à Bernd&nbsp;Heinrich d'acquérir des capacités d'endurance hors-normes&nbsp;&mdash;&nbsp;et donc comment faire pareil à notre niveau, même modestement.
+Toujours chez Guérin/Paulsen, Jean-Philippe nous permet aussi&nbsp;:
+- De connaître les secrets d'un des meilleurs entraîneurs mondiaux, Eric Orton, dans [«&nbsp;No limit - Le trail en harmonie&nbsp;»](https://www.editionspaulsen.com/no-limit-1884.html).
+- De découvrir dans [«&nbsp;Bêtes de course&nbsp;»](https://www.editionspaulsen.com/betes-de-course-2254.html) comment observer le règne animal a permis à Bernd&nbsp;Heinrich d'acquérir des capacités d'endurance hors-normes&nbsp;&mdash;&nbsp;et donc comment faire pareil à notre niveau, même modestement.
 
 Et cette belle collection rouge ne serait, bien sûr, pas complète, sans ce bel ouvrage signé cette fois de Jean-Philippe, écrivain lui-même en plus d'être ultra-traileur&nbsp;:
-- «&nbsp;La Folle Histoire du trail&nbsp;», ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si ici chez Courir Paléo nous ne recommandons pas les chaussures maximalistes ou classiques&nbsp;!
+- [«&nbsp;La Folle Histoire du trail&nbsp;»](https://www.editionspaulsen.com/la-folle-histoire-du-trail-2126.html), ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si ici chez Courir Paléo nous ne recommandons pas les chaussures maximalistes ou classiques&nbsp;!
 
 ### In English please
 ![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
-Si vous lisez l'anglais, ne loupez pas "The Cretan Runner", l'autobiographie de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
+Si vous lisez l'anglais, ne loupez pas ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
 
 ### Technique & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
