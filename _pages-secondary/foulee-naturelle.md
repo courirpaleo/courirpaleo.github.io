@@ -4,7 +4,7 @@ description: Tout comprendre sur le bout des doigts de pieds
 summary: Tout comprendre sur le bout des doigts de pieds
 ---
 ![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentier_sandale_1200px.jpg)
-# La foulée naturelle et minimaliste
+# La foulée naturelle
 ## Tout comprendre sur le bout des doigts de pieds
 
 En courant pieds nus, en sandales ou avec des chaussures sans amorti, sans «&nbsp;drop&nbsp;» (la hauteur relative du talon) et plates à l'intérieur, le pied fonctionne normalement et tout le corps en est renforcé. Les blessures sont beaucoup moins fréquentes qu'avec des chaussures de course ou de running classiques. Celles-ci permettent certes de poser le talon en premier pour allonger sa foulée, mais bloquent le fonctionnement naturel du corps, donnent une mauvaise posture et transfèrent l'absorption du choc résiduel aux genoux et au reste des articulations. De plus, ces chaussures, comme la majorité des baskets, bottes ou bottines, comprennent une semelle intérieure galbée destinée à soutenir la voûte plantaire. Au contraire, celle-ci la fragilise car notre pied doit resté naturellement arqué, en tension, et ce faux support galbé le force à s'avachir et l'affaiblit.
