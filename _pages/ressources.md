@@ -20,7 +20,7 @@ Dès que possible, sentons et ressentons le sol, qu'il s'agisse d'herbe, de plan
 ## Entraînement, musculation, souplesse
 D'autres astuces pour gagner en souplesse et en résistance&nbsp;:
 - Accroupissons-nous. Certes, cette position est dévalorisée dans les pays riches et avoir des toilettes avec un siège est perçu comme un progrès dans le confort, mais pourtant c'est une excellente position pour évacuer les selles et &mdash;&nbsp;plus important pour nous ici&nbsp;&mdash; assouplir ses rotules, gagner en souplesse et tonifier jambes et abdominaux. Un de nos membres avait très mal au genou droit à cause d'un ménisque fracturé et déplacé&nbsp;: aujourd'hui, il a justement renforcé son articulation, sans chirurgie ni traitement médicamenteux, en se forçant à s'accroupir.
-- Tenons-nous souvent sur une jambe, travaillons votre équilibre, avant plus tard de forcer la difficulté en manoeuvrant par exemple nos interrupteurs électriques muraux avec les orteils et en douceur&nbsp;!
+- Tenons-nous souvent sur une jambe, travaillons votre équilibre, avant plus tard de forcer la difficulté en man&oelig;uvrant par exemple nos interrupteurs électriques muraux avec les orteils et en douceur&nbsp;!
 - Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de tennis, des cailloux ou des billes à attraper entre les orteils etc.
 - Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marcheons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt.
 
