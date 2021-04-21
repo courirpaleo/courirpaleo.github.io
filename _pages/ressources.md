@@ -72,7 +72,7 @@ Nous encourageons tout le monde à développer ses sensations, sa perception du 
 Tout ceci nous emmène bien plus loin que la foulée naturelle d'un point de vue technique ou les chaussures minimalistes, et chaque coureuse et chaque coureur fait ce qu'il veut, mais en tout cas l'esprit de l'association Courir&nbsp;Paléo est de progresser dans ces domaines et plus tard d'organiser des rencontres et des courses minimalistes dans tous ces aspects.
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentiers_crete_1200px.jpg)
-texte
+Ci-dessus&nbsp;: sentiers de bergers en Balagne (Corse). Terrain idéal pour courir léger&nbsp;!
 
 
 
