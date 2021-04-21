@@ -47,14 +47,14 @@ Toujours chez Guérin/Paulsen, Jean-Philippe nous permet aussi&nbsp;:
 Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce bel ouvrage signé cette fois de Jean-Philippe, écrivain lui-même en plus d'être ultra-traileur, traducteur et cher à Courir&nbsp;Paléo&nbsp;:
 - [«&nbsp;La Folle Histoire du trail&nbsp;»](https://www.editionspaulsen.com/la-folle-histoire-du-trail-2126.html), ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si ici chez Courir Paléo nous ne recommandons pas les chaussures maximalistes ou classiques&nbsp;!
 
+### In English please
+![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
+Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
+
 ### Le pionnier
 Notre ami Christian Harberts, pionnier de la course pieds nus en France et animateur du «&nbsp;chapitre&nbsp;» français de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
 - son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com)
 - le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1)
-
-### In English please
-![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
-Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
 
 ### Technique & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
