@@ -7,8 +7,8 @@ title: Crédits des contenus du site - Association Courir Paléo
 Remercions les artistes et les professionnels&nbsp;!
 
 ### Logo
-Le joyeux coureur léger qui constitue notre logo a été dessiné par notre ami Anton Moglia, graphiste et créateur de polices de caractères, artiste de la typographie, avec l'inspiration et l'aide d'Elisa Denève, illustratrice. Ces deux talentueux artistes, créatifs et sympathiques, courent aussi le pied léger.
-Beaucoup de belles choses à découvrir chez eux&nbsp;:
+Notre joyeux logo a été dessiné par notre ami Anton Moglia, graphiste et créateur de polices de caractères, artiste de la typographie, avec l'inspiration et l'aide d'Elisa Denève, illustratrice. Ces deux talentueux artistes, créatifs et sympathiques, courent aussi le pied léger.
+Beaucoup de belles choses à découvrir dans leurs espaces&nbsp;:
 - Anton Moglia : [moglia.fr](http://moglia.fr)
 - Elisa Denève : [asile.studio](http://asile.studio)
 
@@ -17,6 +17,7 @@ Toutes les photographies visibles sur notre site ont été prises par les amateu
 Si vous êtes journaliste et que vous souhaitez réutiliser une image vue sur ce site ou si vous avez besoin d'une photo haute-définition de course minimaliste pour votre parution, [contactez-nous](/contact) et nous vous pointerons vers notre mini banque d'images.
 
 ### Création du site Internet
-Merci à Paul Laffitte, développeur Web, de talent lui aussi, qui nous a installé et configuré Jekyll sur GitHub avec un modèle de site déniché et adapté d'ailleurs par Anton afin de pouvoir vous offrir cet espace minimaliste et épuré lui aussi&nbsp;!
+Ce site Internet est minimaliste lui aussi, comme notre approche de la course. Minimaliste dans son design et minimaliste car il utilise le générateur de sites statiques [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel)). Grâce à Jekyll, aucune ligne de code inutile, rien que l'essentiel et un hébergement de pages Web qui consomme peu d'énergie&nbsp;! Soyons tous frugaux dans nos vies réelles et numériques.
+Nous remercions vivement Paul Laffitte, développeur Web, de talent lui aussi, qui nous a installé et configuré Jekyll sur GitHub avec un modèle de site déniché et adapté d'ailleurs par Anton afin de pouvoir vous offrir cet espace que nous avons souhaité sobre et efficace tout en étant élégant.
 - [Paul Laffitte sur LinkedIn](https://fr.linkedin.com/in/paul-laffitte)
 
