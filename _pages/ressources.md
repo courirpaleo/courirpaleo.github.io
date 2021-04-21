@@ -21,7 +21,7 @@ Dès que possible, sentons et ressentons le sol, qu'il s'agisse d'herbe, de plan
 D'autres astuces pour gagner en souplesse et en résistance&nbsp;:
 - Accroupissons-nous. Certes, cette position est dévalorisée dans les pays riches et avoir des toilettes avec un siège est perçu comme un progrès dans le confort, mais pourtant c'est une excellente position pour évacuer les selles et &mdash;&nbsp;plus important pour nous ici&nbsp;&mdash; assouplir ses rotules, gagner en souplesse et tonifier jambes et abdominaux. Un de nos membres avait très mal au genou droit à cause d'un ménisque fracturé et déplacé&nbsp;: aujourd'hui, il a justement renforcé son articulation, sans chirurgie ni traitement médicamenteux, en se forçant à s'accroupir.
 - Tenons-nous souvent sur une jambe, travaillons votre équilibre, avant plus tard de forcer la difficulté en manoeuvrant par exemple nos interrupteurs électriques muraux avec les orteils et en douceur&nbsp;!
-- Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de tennis, des cailloux à attraper entre les orteils etc.
+- Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de tennis, des cailloux ou des billes à attraper entre les orteils etc.
 - Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marcheons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt.
 
 ## Alimentation
@@ -30,13 +30,28 @@ Chacun réagit différemment à la nourriture, chacun mange comme il veut et nou
 
 ## Lectures
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-rouges-1200px.jpg)
-texte
+### Attention «&nbsp;grands livres rouges&nbsp;»&nbsp;!
+Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désormais cultes de Christopher McDougall, parus chez Guérin, sont incontournables&nbsp;:
+- Dans «&nbsp;Né pour courir&nbsp;» ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumara et surtout qu'il faut courir comme notre corps l'attend, c'est-à-dire surtout pas en posant le talon en premier comme quand on marche ([lire aussi notre page sur la foulée naturelle](/foulee-naturelle).
+- Dans «&nbsp;Tous des héros&nbsp;» (Natural Born Heroes), il nous emmène en Crête découvrir et revivre une épopée formidable, inouie et diablement héroïque de la Seconde Guerre mondiale riche en courses mythiques tout en nous démontrant que, pour être dans une forme olympique, point n'est besoin d'aller à la salle de gym ou d'acheter du matériel&nbsp!
 
-![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
-Texte
+Toujours chez Guérin, Jean-Philippe nous permet aussi&nbsp;:
+- De connaître les secrets d'un des meilleurs entraîneurs mondiaux, Eric Orton, dans «&nbsp;No limit - Le trail en harmonie&nbsp;».
+- De découvrir dans «&nbsp;Bêtes de course&nbsp;» comment observer le règne animal a permis à Bernd Heinrich d'acquérir des capacités d'endurance hors-normes.
+
+Et cette belle collection rouge ne serait, bien sûr, pas complète, sans ce bel ouvrage signé de Jean-Philippe, ultra-traileur et écrivain lui-même&nbsp;:
+- «&nbsp;La Folle Histoire du trail&nbsp;», ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si ici chez Courir Paléo nous ne recommandons pas les chaussures maximalistes ou classiques&nbsp;!
 
 ![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
-Texte
+### In English please
+Si vous lisez l'anglais, ne loupez pas "The Cretan Runner", l'autobiographie de [George Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher McDougall dans «&nbsp;Tous des héros&nbsp;».
+
+
+![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
+Coté technique et anatomie, tous les livres de Frédéric Brigaud chez Eyrolles sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à lire, relire et conserver dans son sac de sport&nbsp;:
+- [Guide de la foulée (avec prise d'appui avant-pied)](https://www.eyrolles.com/Loisirs/Livre/guide-de-la-foulee-avec-prise-d-appui-avant-pied-9782364031449) chez Eyrolles.
+- [Corriger le pied sans semelle](https://www.eyrolles.com/Loisirs/Livre/corriger-le-pied-sans-semelle-9782364031654)
+
 
 ## Vidéos
 
