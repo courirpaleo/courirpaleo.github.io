@@ -18,6 +18,11 @@ Lors d'une sortie découverte au parc Suzanne Lenglen de Paris en 2019 (voir pho
 ![Courir Paleo](/assets/images/CourirPaleo_M6_marathon_Ludovic_1200px.jpg)
 Bravo à notre ami Ludovic pour son marathon de Paris 2019, couru pieds nus en 3h41. Une aventure suivie par Mégane Guillaume pour M6 dans le journal de 19h45 du dimanche 14 avril 2019. Ce reportage est également indisponible en replay mais Ludovic pourra vous raconter son marathon si vous nous rejoignez. En même temps que lui, M6 avait aussi suivi une jeune femme courant les 42,195&nbsp;km en talons aiguilles&nbsp;!
 
+### Kaizen&nbsp;: «&nbsp;Pieds nus pour renouer avec la Terre&nbsp;»
+![Courir Paleo](/assets/images/CourirPaleo_Kaizen-numero-51_1200px.jpg)
+Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dans le numéro de la revue Kaizen de juillet-août 2020. Un bel exemple de reconnexion avec la Nature et de profiter de ll'énergie de la Terre en étant plus près d'elle, pieds nus ou en tout cas plus près du sol&nbsp;!
+[Lire ou acheter le n°51 de Kaizen](https://boutique.kaizen-magazine.com/bimestriels/616-kaizen-51.html)
+
 
 ### Le Journal du Runner - Spécial Marathon de Paris
 Merci à Véronique Bury de nous avoir accompagnés lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [la double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
