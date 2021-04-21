@@ -7,7 +7,7 @@ title: Crédits des contenus du site - Association Courir Paléo
 Remercions les artistes et les professionnels&nbsp;!
 
 ### Logo
-Notre joyeux logo a été dessiné par notre ami Anton Moglia, graphiste et créateur de polices de caractères, artiste de la typographie, avec l'inspiration et l'aide d'Elisa Denève, illustratrice. Ces deux talentueux artistes, créatifs et sympathiques, courent aussi le pied léger.
+Notre joyeux logo a été dessiné par notre ami Anton Moglia, graphiste et créateur de polices de caractères, passionné de typographie, avec l'inspiration et l'aide d'Elisa Denève, illustratrice. Ces deux talentueux artistes, créatifs et sympathiques, courent aussi le pied léger.
 Beaucoup de belles choses à découvrir dans leurs espaces&nbsp;:
 - Anton Moglia : [moglia.fr](http://moglia.fr)
 - Elisa Denève : [asile.studio](http://asile.studio)
