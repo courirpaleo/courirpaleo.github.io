@@ -25,7 +25,7 @@ Quelques astuces pour gagner en souplesse et en résistance&nbsp;:
 - Accroupissons-nous. Certes, cette position est dévalorisée dans les pays dits développés et avoir des toilettes avec un siège est perçu comme un progrès, mais pourtant c'est une excellente position pour évacuer les selles et &mdash;&nbsp;plus important pour nous ici&nbsp;&mdash; assouplir ses rotules, gagner en souplesse et tonifier jambes et abdominaux. Notre fondateur avait très mal au genou droit à cause d'un ménisque fracturé et déplacé et a justement créé Courir Paléo après s'être guéri tout seul&nbsp;: aujourd'hui, son articulation s'est renforcée, sans chirurgie ni traitement médicamenteux, notamment par de tels exercices et en optant, bien entendu, pour une foulée naturelle.
 - Tenons-nous souvent sur une jambe, travaillons notre équilibre, avant plus tard de forcer la difficulté en man&oelig;uvrant par exemple nos interrupteurs électriques muraux avec les orteils&nbsp;!
 - Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de tennis, des cailloux ou des billes à attraper entre les orteils etc.
-- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marcheons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt ou au bord de la mer.
+- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marchons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt ou au bord de la mer.
 
 ## Alimentation
 ![Courir Paleo](/assets/images/CourirPaleo_photo_marque_MQ_1200px.jpg)
