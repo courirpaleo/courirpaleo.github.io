@@ -59,14 +59,13 @@ Coté technique et anatomie, tous les livres de Frédéric Brigaud chez les Édi
 
 
 ## Vidéos
-
-Notre joyeux logo
+Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
 
 ## Équipement
-Au-delà des sandales ou des chaussures dont nous avons déjà parlé, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles et toujours de limiter son empreinte sur la Nature.
+Au-delà des sandales ou des chaussures dont nous avons déjà parlé, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de toujours de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
 Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS, cardio ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à&nbsp;:
-- Se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, font fureur depuis qu'elles permettent de ne plus transpirer comme dans du coton, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle étouffe déjà sous les déchets plastiques. Aussi, nous sommes en train de voir comment proposer à ceux qui le souhaitent de s'habiller en lin, en chanvre, en laine mérinos, voire en bambou ou d'autres matériaux, et de préférence bien sûr français ou voisin.
-- 
+- Se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, font fureur depuis qu'elles permettent de ne plus transpirer comme dans du coton, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle étouffe déjà sous les déchets plastiques. Aussi, nous sommes en train de voir comment proposer à ceux qui le souhaitent de s'habiller en lin, en chanvre, en laine mérinos, voire en bambou ou d'autres matériaux, et de préférence bien sûr français ou voisins.
+- Développer ses sensations, sa perception du terrain, de l'effort, du temps qui passe et du temps qu'il fait, etc. Ainsi, un coureur vraiment minimaliste, non seulement aura une foulée légère et naturelle pieds nus ou avec des chaussures fines et souples, mais aussi pourra vouloir 
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentiers_crete_1200px.jpg)
 texte
