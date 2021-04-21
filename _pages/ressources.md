@@ -6,8 +6,9 @@ title: Courir Paléo | Ressources pour courir et vivre léger
 
 Nous ne savons pas tout mais dans la vie le plus important c'est de se poser des questions&nbsp;; les réponses viennent ensuite, de l'extérieur ou de soi-même. Nous avons rassemblé ici une liste de ressources, de conseils, d'exemples instructifs ou inspirants, de lectures et d'autres astuces pour nous faire tous progresser en course, pour éviter de se blesser, pour guérir ou atténuer ses douleurs ou ses bobos et pour mieux vivre, de manière légère, souple, vivace et frugale car le bonheur est intérieur&nbsp;!
 
-## Équipement
-Notre joyeux logo
+## Nos pieds au quotidien
+![Courir Paleo](/assets/images/CourirPaleo_semelles_bottines_1200px.jpg)
+Texte
 
 ## Entraînement, musculation, souplesse
 ![Courir Paleo](/assets/images/Courir-Paleo-pieds-nus-pelouse-1200px.jpg)
@@ -20,12 +21,28 @@ Quelques trucs simples à faire chez soi&nbsp;:
 - Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marcheons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt.
 
 ## Alimentation
-Notre joyeux logo
+![Courir Paleo](/assets/images/Courir-Paleo-pieds-nus-pelouse-1200px.jpg)
+Texte
 
 ## Lectures
-Notre joyeux logo
+![Courir Paleo](/assets/images/Courir-Paleo-livres-rouges-1200px.jpg)
+texte
+
+![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
+Texte
+
+![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
+Texte
 
 ## Vidéos
+
 Notre joyeux logo
+
+## Équipement
+Texte
+
+![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentiers_crete_1200px.jpg)
+texte
+
 
 
