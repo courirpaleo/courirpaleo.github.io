@@ -7,11 +7,10 @@ title: Contactez Courir Paléo, association et club de course naturelle et minim
 ### Renseignements & newsletter
 
 Pour toute information sur la course naturelle, sur nos activités ou pour vous inscrire à notre newsletter gratuite, contactez-nous.
-- par ce formulaire&nbsp;:
-{% include webform.html %}
-
 - par email (préférable)&nbsp;: <a href="mailto:info@courirpaleo.fr">info@courirpaleo.fr</a>
 - par sms ou par téléphone&nbsp;: +33 6 76 13 17 85
+- par ce formulaire&nbsp;:
+{% include webform.html %}
 
 Nous répondons sous 24 heures*. À bientôt&nbsp;!
 
