@@ -14,13 +14,14 @@ Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent déco
 L'accès est libre et gratuit de 5 à 95 ans, sans réservation - mais cela fait nous fait plaisir d'être prévenus afin que nous sachions qui vient, ceci pour mieux vous accueillir et adapter notre programme aux nouveaux arrivants.
 
 Bien entendu et Covid-19 oblige, nous sommes masqués sauf pour ceux qui préfèrent courir sans masque, les sandales sont désinfectées avant chaque prêt et tout le monde est prié de se tenir à au moins 2m de son voisin&nbsp;!
-Voir plus bas pour les lieux de rendez-vous exacts.​
+Voir en pour les lieux de rendez-vous exacts.​
+
+### Calendrier
 
 - Dimanche 2 mai 2021&nbsp;: Bois de Vincennes
 - Dimanche 6 juin 2021&nbsp;: Quai Rive Gauche / Piscine Joséphine Baker
 - Dimanche 4 juillet 2021&nbsp;: Parc Montsouris
 - Dimanche 1er août 2021&nbsp;: Stade Suzanne Lenglen
-​
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
 ### Format
