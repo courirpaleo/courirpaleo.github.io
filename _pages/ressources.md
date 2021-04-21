@@ -56,7 +56,7 @@ Notre ami Christian Harberts, pionnier de la course pieds nus en France et anima
 - son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com)
 - le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1)
 
-### Technique & anatomie
+## Technique & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
 Coté technique et anatomie, tous les livres de Frédéric Brigaud chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
 - [Guide de la foulée](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html) (avec prise d'appui avant-pied)
