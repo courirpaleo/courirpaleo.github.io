@@ -75,7 +75,7 @@ Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous 
 
 ## Équipement
 Au-delà des sandales ou des chaussures dont nous avons déjà parlé, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
-Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, permettent d'évacuer la transpiration, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle se meurt déjà sous les déchets plastiques.
+Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, permettent d'évacuer la transpiration ou de gagner du poids, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle se meurt déjà sous les déchets plastiques.
 
 Aussi, nous sommes en train de voir comment proposer un choix spécifique de vêtements de course en lin, chanvre, laine mérinos, coton ciré (pour la pluie), voire en bambou ou d'autres matériaux, et de préférence bien sûr d'origine française ou voisine.
 
