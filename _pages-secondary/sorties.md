@@ -13,7 +13,7 @@ Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent déco
 
 L'accès est libre et gratuit de 5 à 95 ans, sans réservation&nbsp;&mdash;&nbsp;mais cela fait nous fait plaisir d'être prévenus afin que nous sachions qui vient, ceci pour mieux vous accueillir et adapter notre programme aux nouveaux arrivants.
 
-Bien entendu et Covid-19 oblige, nous sommes masqués pour les exercices statiques et le masque est optionnel pour courir, les sandales sont désinfectées avant chaque prêt et tout le monde est prié de se tenir à au moins 2m de son voisin&nbsp;!
+Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes masqués pour les exercices statiques et le masque est optionnel pour courir, les sandales sont désinfectées avant chaque prêt et tout le monde est prié de se tenir à au moins 2m de son voisin&nbsp;!
 Voir en pour les lieux de rendez-vous exacts.​
 
 ### Calendrier
