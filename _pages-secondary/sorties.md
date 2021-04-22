@@ -14,7 +14,7 @@ Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent déco
 L'accès est libre et gratuit de 5 à 95 ans, sans réservation&nbsp;&mdash;&nbsp;mais cela nous fait plaisir d'être prévenus afin que nous sachions qui vient, ceci pour mieux vous accueillir et adapter notre programme aux nouveaux arrivants.
 
 Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes masqués pour les exercices statiques, nous restons à bonne distance pour courir et les sandales sont désinfectées avant chaque prêt, comme avant la pandémie&nbsp;!
-Voir en bas de page pour les lieux de rendez-vous exacts.​
+Voir en bas de page pour les lieux de rendez-vous précis.​
 
 ## Calendrier
 - Dimanche 2 mai 2021&nbsp;: Bois de Vincennes
