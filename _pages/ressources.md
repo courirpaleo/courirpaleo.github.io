@@ -27,7 +27,7 @@ Quelques astuces pour gagner en souplesse et en résistance&nbsp;:
 - Travaillons et téléphonons debout, mangeons debout accoudés à un comptoir, passons le moins de temps possible assis ou assise. Notre corps n'est pas fait pour être assis, sauf occasionnellement, et nous savons depuis le point précédent qu'on peut aussi se reposer accroupi et pas assis&nbsp;!
 - Tenons-nous souvent sur une jambe, travaillons notre équilibre, avant plus tard de forcer la difficulté en man&oelig;uvrant par exemple nos interrupteurs muraux avec les orteils&nbsp;!
 - Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de golf ou de ping-pong, des cailloux ou des billes à attraper entre les orteils etc.
-- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, des pilates, marchons, bougeons... allons nous ressourcer (pieds nus&nbsp;!) en forêt, à la montagne ou au bord de la mer.
+- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, de la corde à sauter, des pilates, marchons, bougeons, dansons... allons nous ressourcer (pieds nus&nbsp;!) en forêt, à la montagne ou au bord de la mer.
 
 ## Alimentation
 ![Courir Paleo](/assets/images/CourirPaleo_photo_marque_MQ_1200px.jpg)
