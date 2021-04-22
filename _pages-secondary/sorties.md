@@ -11,7 +11,7 @@ summary: Venez courir avec nous et vous sentir légers !
 Nous organisons des sorties d'initiation, de découverte de la foulée naturelle et de partage d'expérience le premier dimanche de chaque mois à Paris, le matin, selon le calendrier qui suit.
 Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent découvrir une nouvelle façon de courir sans se blesser et nous organisons des ateliers pratiques sur du sable, de l'herbe, de la piste ou un trottoir, selon l'endroit.
 
-L'accès est libre et gratuit de 5 à 95 ans, sans réservation&nbsp;&mdash;&nbsp;mais cela fait nous fait plaisir d'être prévenus afin que nous sachions qui vient, ceci pour mieux vous accueillir et adapter notre programme aux nouveaux arrivants.
+L'accès est libre et gratuit de 5 à 95 ans, sans réservation&nbsp;&mdash;&nbsp;mais cela nous fait plaisir d'être prévenus afin que nous sachions qui vient, ceci pour mieux vous accueillir et adapter notre programme aux nouveaux arrivants.
 
 Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes masqués pour les exercices statiques et le masque est optionnel pour courir, les sandales sont désinfectées avant chaque prêt et tout le monde est prié de se tenir à au moins 2m de son voisin&nbsp;!
 Voir en bas de page pour les lieux de rendez-vous exacts.​
