@@ -39,7 +39,7 @@ Donc, sans être un collectif de mangeurs paléo, notre association encourage to
 ### Attention «&nbsp;grands livres rouges&nbsp;»&nbsp;!
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-rouges-1200px.jpg)
 Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désormais cultes de Christopher McDougall, parus chez Guérin/Paulsen, sont incontournables&nbsp;:
-- Dans [«&nbsp;Né pour courir&nbsp;»](https://www.editionspaulsen.com/born-to-run-2293.html) ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumara et surtout qu'il faut courir comme notre corps le prévoit, c'est-à-dire surtout pas en posant le talon en premier comme quand on marche (sur ce sujet, [lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
+- Dans [«&nbsp;Né pour courir&nbsp;»](https://www.editionspaulsen.com/born-to-run-2293.html) ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumara et surtout qu'il faut courir comme notre corps le prévoit, c'est-à-dire surtout pas en posant le talon en premier comme lors de la marche ([lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
 - Dans [«&nbsp;Tous des héros&nbsp;»](https://www.editionspaulsen.com/tous-des-heros-1958.html) ("Natural Born Heroes"), il nous emmène en Crête découvrir et revivre une épopée formidable, inouie et héroïque de la Seconde Guerre mondiale, riche en courses mythiques, tout en nous démontrant que, pour être dans une forme olympique, point n'est besoin d'aller à la salle de gym ou d'acheter du matériel&nbsp;!
 
 Toujours chez Guérin/Paulsen, Jean-Philippe nous permet aussi&nbsp;:
