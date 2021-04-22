@@ -22,7 +22,7 @@ Au club Courir Paléo, nous partageons nos impressions, nos expériences et nos 
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_foulees_1200px.jpg)
 
-Réapprendre à courir doit se faire doucement, intelligemment, en cherchant à identifier et décrire ses sensations. Les problématiques, les mauvaises postures ou mauvais mouvements sont communs à presque tout le monde, mais les sensations sont personnelles et c'est d'elles que viendra la progression et pas de vouloir copier un autre coureur à l'identique. Un coureur léger et efficient, effleurant le sol sans efforts, nous inspirera pour s'en approcher, mais la foulée des uns n'est pas celle des autres et chacun doit trouver la sienne.
+Réapprendre à courir doit se faire doucement, intelligemment, en cherchant à identifier et décrire ses sensations. Les hésitations ou incertitudes, les mauvaises postures ou mauvais mouvements sont communs à presque tout le monde, mais les sensations sont personnelles et c'est d'elles que viendra la progression et pas de vouloir copier un autre coureur à l'identique. Un coureur léger et efficient, effleurant le sol sans efforts, nous inspirera pour s'en approcher, mais la foulée des uns n'est pas celle des autres et chacun doit trouver la sienne.
 
 Nous aidons ainsi chacun à ressentir ce qui se passe dans le pied, la jambe, le dos, les épaules, la tête, etc. quand on court&nbsp;; par des démonstrations et des exercices simples, sans forcer et très prudemment, nous permettons à chacun de savoir où et comment porter son effort pour trouver ou retrouver sa foulée normale.
 
