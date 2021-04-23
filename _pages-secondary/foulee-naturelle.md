@@ -50,7 +50,7 @@ C'est pourquoi nous laissons chacun choisir son style de chaussures ou de courir
 
 ![Courir Paleo](/assets/images/CourirPaleo_Vincennes_VFF_1080px.jpg)
 
-Aujourd'hui, de nombreuses marques de chaussures minimalistes proposent de très bons modèles pour toute saison, pourvus de doigts de pieds séparés dans le cas des Vibram Five Fingers, ainsi que des sandales toutes faites ou des kits pour les réaliser, comme les huaraches des Tarahumaras. Celles-ci peuvent aussi être coupées dans un bout de pneu ou de cuir pour les puristes ou les bricoleurs&nbsp;&mdash;&nbsp;chacun fait comme il veut et selon son esprit, libre et indépendant. Liés avec aucune marque, nous ne faisons que prodiguer à chacun des conseils pour vous permettre de trouver la bonne chaussure ou la bonne sandale minimaliste, ou bien de courir pieds nus sans vous blesser ni avoir froid ou trop chaud.
+Aujourd'hui, de nombreuses marques de chaussures minimalistes proposent de très bons modèles pour toute saison, ainsi que des sandales toutes faites ou des kits pour les réaliser, comme les huaraches des Tarahumaras. Celles-ci peuvent aussi être coupées dans un bout de pneu ou de cuir pour les puristes ou les bricoleurs (voir notre page [Ressources](/ressources)). Chacun fait comme il veut et selon son esprit, libre et indépendant. Liés avec aucune marque, nous ne faisons que prodiguer à chacun des conseils pour vous permettre de trouver la bonne chaussure ou la bonne sandale minimaliste, ou bien de courir pieds nus sans vous blesser ni avoir froid ou trop chaud.
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_sorties_sandales_pret_1200px.jpg)
 
