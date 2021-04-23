@@ -58,9 +58,9 @@ Notre ami Christian Harberts, pionnier de la course pieds nus en France et anima
 - son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com)
 - le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1)
 
-## Technique & anatomie
+## Anatomie & technique
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
-Coté technique et anatomie, tous les livres de Frédéric Brigaud chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
+Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
 - [Guide de la foulée](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html) (avec prise d'appui avant-pied)
 - [Corriger le pied sans semelle](https://www.adverbum.fr/editions-desiris/frederic-brigaud/corriger-le-pied-nouvelle-edition_kmc5fm7vaovo.html)
 
@@ -68,12 +68,11 @@ Coté technique et anatomie, tous les livres de Frédéric Brigaud chez les Édi
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants comme pour les coureurs expérimentés. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés.
 [Voir le site de LightFeetRunning](http://www.lightfeetrunning.com/)
 
-
-
 ## Vidéos
 Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
 
 ## Équipement
+![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
 Au-delà des sandales ou des chaussures dont nous avons déjà parlé, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
 Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, permettent d'évacuer la transpiration ou de gagner du poids, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle se meurt déjà sous les déchets plastiques.
 
