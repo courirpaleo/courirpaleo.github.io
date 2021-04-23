@@ -73,7 +73,8 @@ Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous 
 
 ## Équipement
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
-Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;! 
+Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
+
 Au-delà des sandales ou des chaussures dont nous avons déjà parlé, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
 Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, permettent d'évacuer la transpiration ou de gagner du poids, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle se meurt déjà sous les déchets plastiques.
 
