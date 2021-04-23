@@ -81,8 +81,10 @@ Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
 - [Xeroshoes](https://xeroshoes.com/xero-shoes-story), pionner des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
 - [EarthRunners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour bricolé des tongs pour une longue marche suite à une panne de voiture.
-Xeroshoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
 
+Un bon point&nbsp;: Xeroshoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
+
+Les autres marques&nbsp;:
 - [Pantasandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
 - [Unshoes](https://www.unshoesusa.com), qui nous a fournit nos premiers modèles de prêt et qui sont très confortables mais parfois, selon les modèles, plus destinés à la marche qu'à la course.
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (les VFF, Vibram Five Fingers) et dans d'autres modèles.
