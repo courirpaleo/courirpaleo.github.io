@@ -91,7 +91,7 @@ Les autres marques&nbsp;:
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de chaussures de sports, de randonnée et de vêtements de plein-air.
 
 La plupart de ces marques, mais pas toutes, sont disponibles chez deux revendeurs français&nbsp;:
-- Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui recommandent nos ateliers à leurs clients et que nous saluons (merci Peter&nbsp;!).
+- Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui nous envoient leurs clients pour apprendre à courir léger, qui a co-organisé avec nous une sortie découverte et que nous saluons (merci Peter&nbsp;!).
 - Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica!).
 
 ### Vêtements & accessoires
