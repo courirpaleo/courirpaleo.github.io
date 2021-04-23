@@ -86,7 +86,7 @@ Un bon point&nbsp;: Xeroshoes et EarthRunners soutiennent financièrement les [T
 
 Les autres marques&nbsp;:
 - [Pantasandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
-- [Unshoes](https://www.unshoesusa.com), qui nous a fournit nos premiers modèles de prêt et qui sont très confortables mais parfois, selon les modèles, plus destinés à la marche qu'à la course.
+- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont très confortables mais parfois, selon les modèles, plus destinés à la marche qu'à la course.
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (les VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de vêtements de loisirs et de sports de plein-air qui s'est diversifié dans la chaussure depuis des années.
