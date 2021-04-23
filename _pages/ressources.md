@@ -79,7 +79,7 @@ Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibra
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour une chaussure minimaliste fermée, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
-- [Xeroshoes](https://xeroshoes.com/xero-shoes-story), pionner des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
+- [Xeroshoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
 - [EarthRunners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour bricolé des tongs pour une longue marche suite à une panne de voiture.
 
 Un bon point&nbsp;: Xeroshoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
