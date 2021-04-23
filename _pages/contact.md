@@ -10,7 +10,7 @@ Pour essayer la course naturelle en toute liberté si vous êtes francilien.ne, 
 ## Renseignements & newsletter
 Pour toute information sur la course naturelle, nos activités ou pour recevoir notre newsletter gratuite, contactez Benoît, notre fondateur&nbsp;; ll répond sous 24 heures (1). À bientôt&nbsp;!
 - email&nbsp;: <a href="mailto:info@courirpaleo.fr">info@courirpaleo.fr</a>
-- sms ou appel&nbsp;: +33 6 76 13 17 85
+- téléphone&nbsp;: +33 6 76 13 17 85
 - formulaire&nbsp;:
 {% include webform.html %}
 
