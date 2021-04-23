@@ -75,7 +75,26 @@ Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous 
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
 Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
-Au-delà des sandales ou des chaussures dont nous avons déjà parlé, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
+### Chaussures
+Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour une chaussure minimaliste fermée, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
+
+Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
+- [Xeroshoes](https://xeroshoes.com/xero-shoes-story), pionner des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
+- [EarthRunners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour dû bricoler des tongs pour une longue marche suite à une panne de voiture.
+Xeroshoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
+
+- [Pantasandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
+- [Unshoes](https://www.unshoesusa.com), qui nous a fournit nos premiers modèles de prêt et qui sont très confortables mais parfois, selon les modèles, plus destinés à la marche qu'à la course.
+- [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (les VFF, Vibram Five Fingers) et dans d'autres modèles.
+- [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
+- [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de vêtements de loisirs et de sports de plein-air qui s'est diversifié dans la chaussure depuis des années.
+
+La plupart de ces marques, mais pas toutes, sont disponibles chez deux revendeurs français&nbsp;:
+- Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui recommandent nos ateliers à leurs clients et que nous saluons (merci Peter&nbsp;!).
+- Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica!).
+
+### Vêtements & accessoires
+Au-delà des sandales ou des chaussures, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
 Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, permettent d'évacuer la transpiration ou de gagner du poids, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle se meurt déjà sous les déchets plastiques.
 
 Aussi, nous sommes en train de voir comment proposer un choix spécifique de vêtements de course en lin, chanvre, laine mérinos, coton ciré (pour la pluie), voire en bambou ou d'autres matériaux, et de préférence bien sûr d'origine française ou voisine.
