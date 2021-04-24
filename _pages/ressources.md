@@ -63,7 +63,7 @@ Notre ami Christian Harberts, pionnier de la course pieds nus en France et anima
 
 ## Anatomie & technique
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
-Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
+Coté anatomie, physiologie et technique, tous les livres de [Frédéric Brigaud](https://eadconcept.com) chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
 - [Guide de la foulée](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html) (avec prise d'appui avant-pied)
 - [Corriger le pied sans semelle](https://www.adverbum.fr/editions-desiris/frederic-brigaud/corriger-le-pied-nouvelle-edition_kmc5fm7vaovo.html)
 
