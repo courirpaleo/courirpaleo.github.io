@@ -72,13 +72,13 @@ Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous 
 
 ## Équipement
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
-Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
+Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ® ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
 ### Chaussures
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour une chaussure minimaliste fermée, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
-- [Xeroshoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
+- [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
 - [EarthRunners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour bricolé des tongs pour une longue marche suite à une panne de voiture.
 
 Un bon point&nbsp;: Xeroshoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
@@ -86,7 +86,7 @@ Un bon point&nbsp;: Xeroshoes et EarthRunners soutiennent financièrement les [T
 Les autres marques&nbsp;:
 - [Pantasandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
 - [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont très confortables mais parfois, selon les modèles, plus destinés à la marche qu'à la course.
-- [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (les VFF, Vibram Five Fingers) et dans d'autres modèles.
+- [Vibram ®](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (les VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de chaussures de sports, de randonnée et de vêtements de plein-air.
 
@@ -98,9 +98,9 @@ La plupart de ces marques, mais pas toutes, sont disponibles chez deux revendeur
 Au-delà des sandales ou des chaussures, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
 Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtements, la montre GPS, le cardiofréquencemètre ou tout autre matériel dont il souhaitera disposer. Cependant, l'association va progressivement aider et encourager les coureuses et les coureurs à se vêtir de fibres naturelles car le polyester et toutes les fibres techniques respirantes, certes, permettent d'évacuer la transpiration ou de gagner du poids, mais libèrent des millions de particules de plastique dans les eaux à chaque lavage, lesquelles particules finissent en mer, laquelle se meurt déjà sous les déchets plastiques.
 
-Aussi, nous sommes en train de voir comment proposer un choix spécifique de vêtements de course en lin, chanvre, laine mérinos, coton ciré (pour la pluie), voire en bambou ou d'autres matériaux, et de préférence bien sûr d'origine française ou voisine.
+Aussi, nous sommes en train de voir comment proposer un choix spécifique de vêtements de course en lin, chanvre, laine mérinos, coton ciré (pour la pluie), voire en bambou ou d'autres matériaux, et bien sûr d'origine française ou voisine.
 
-Enfin, et c'est un choix subjectif mais assumé, nous aimons beaucoup [la gourde Le Grand Tétras](https://www.lagourdefrancaise.com)&nbsp;: française, née en 1912, typée, stylée, élégante, robuste, durable, en métal et écoresponsable&nbsp;!
+Enfin, et c'est un choix subjectif mais assumé sans aucune influence de la marque, qui ne nous connaît même pas, nous aimons beaucoup [la gourde Le Grand Tétras](https://www.lagourdefrancaise.com)&nbsp;: française, née en 1912, typée, stylée, élégante, robuste, durable, en métal et écoresponsable&nbsp;!
 
 ## Esprit & philosophie
 Nous encourageons également tout le monde à développer ses sensations, sa perception du terrain, de l'effort, du temps qui passe et du temps qu'il fait, etc. Ainsi, un coureur minimaliste dans toute son attitude et pas seulement pieds nus ou équipé de chaussures minimalistes, non seulement aura une foulée légère et naturelle, mais saura aussi évaluer sa vitesse sans instrument, se rafraîchir dans une rivière et s'hydrater en buvant peu, s'alimenter de mûres au lieu de transporter un en-cas, courir en pleine conscience sans autre but que de courir libre, ne pas chercher la performance mais pourtant se lancer des défis imprévus, saura écouter son corps, connaîtra son rythme cardiaque ou sa limite d'efforts sans aucun appareil, choisira aussi de s'arrêter un moment pour écouter les oiseaux ou le vent...
