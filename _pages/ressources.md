@@ -71,7 +71,8 @@ Voir aussi son site EADConcept et notamment cette page sur [l'initiation à la c
 
 ### Perfectionnement
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants comme pour les coureurs expérimentés. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés.
-[Voir le site de Light Feet Running](http://www.lightfeetrunning.com/)
+
+[Voir le site de Light Feet Running](http://www.lightfeetrunning.com).
 
 ## Vidéos
 Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
@@ -81,7 +82,7 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
 ### Chaussures
-Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour une chaussure minimaliste fermée, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
+Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour des chaussures minimalistes fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
 - [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
@@ -106,7 +107,7 @@ Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtemen
 
 Aussi, nous sommes en train de voir comment proposer un choix spécifique de vêtements de course en lin, chanvre, laine mérinos, coton ciré (pour la pluie), voire en bambou ou d'autres matériaux, et bien sûr d'origine française ou voisine.
 
-Enfin, et c'est un choix subjectif mais assumé sans aucune influence de la marque, qui ne nous connaît même pas, nous aimons beaucoup [la gourde Le Grand Tétras](https://www.lagourdefrancaise.com)&nbsp;: française, née en 1912, typée, stylée, élégante, robuste, durable, en métal et écoresponsable&nbsp;!
+Enfin, et c'est un choix subjectif sans aucune influence de la marque, qui ne nous connaît même pas, nous aimons beaucoup [la gourde Le Grand Tétras](https://www.lagourdefrancaise.com)&nbsp;: française, née en 1912, typée, stylée, élégante, robuste, durable, en métal et écoresponsable&nbsp;!
 
 ## Esprit & philosophie
 Nous encourageons également tout le monde à développer ses sensations, sa perception du terrain, de l'effort, du temps qui passe et du temps qu'il fait, etc. Ainsi, un coureur minimaliste dans toute son attitude et pas seulement pieds nus ou équipé de chaussures minimalistes, non seulement aura une foulée légère et naturelle, mais saura aussi évaluer sa vitesse sans instrument, se rafraîchir dans une rivière et s'hydrater en buvant peu, s'alimenter de mûres au lieu de transporter un en-cas, courir en pleine conscience sans autre but que de courir libre, ne pas chercher la performance mais pourtant se lancer des défis imprévus, saura écouter son corps, connaîtra son rythme cardiaque ou sa limite d'efforts sans aucun appareil, choisira aussi de s'arrêter un moment pour écouter les oiseaux ou le vent...
