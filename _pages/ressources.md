@@ -67,7 +67,7 @@ Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud 
 - [Guide de la foulée](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html) (avec prise d'appui avant-pied)
 - [Corriger le pied sans semelle](https://www.adverbum.fr/editions-desiris/frederic-brigaud/corriger-le-pied-nouvelle-edition_kmc5fm7vaovo.html)
 
-Voir aussi [son site EADConcept, notamment cette page sur l'initiation à la course pieds nus](https://eadconcept.com/coaching-ead/s-initier-au-barefoot-courir-pieds-nus).
+Voir aussi son site EADConcept et notamment cette page sur [l'initiation à la course pieds nus](https://eadconcept.com/coaching-ead/s-initier-au-barefoot-courir-pieds-nus).
 
 ### Perfectionnement
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants comme pour les coureurs expérimentés. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés.
