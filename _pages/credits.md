@@ -3,7 +3,7 @@ title: Crédits des contenus du site minimaliste de l'association Courir Paléo
 ---
 ![Courir Paleo](/assets/images/Logo-Courir-Paleo-long-blanc-1200px.png)
 # Crédits
-Remercions les artistes et les professionnels qui nous permettent ce site minimaliste lui aussi&nbsp;!
+Remercions les artistes et les professionnels qui nous permettent ce site, minimaliste lui aussi&nbsp;!
 
 ## Logo
 Notre joyeux logo a été dessiné par notre ami Anton Moglia, graphiste et créateur de polices de caractères, passionné de typographie, avec l'inspiration et l'aide d'Elisa Denève, illustratrice. Ces deux talentueux artistes, créatifs et sympathiques, courent aussi le pied léger.
