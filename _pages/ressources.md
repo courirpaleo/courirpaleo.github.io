@@ -65,7 +65,7 @@ Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud 
 
 ### Perfectionnement
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants comme pour les coureurs expérimentés. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés.
-[Voir le site de LightFeetRunning](http://www.lightfeetrunning.com/)
+[Voir le site de Light Feet Running](http://www.lightfeetrunning.com/)
 
 ## Vidéos
 Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
