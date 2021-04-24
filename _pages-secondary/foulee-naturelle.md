@@ -7,7 +7,7 @@ summary: Tout comprendre sur le bout des doigts de pieds
 # La foulée naturelle et minimaliste
 ## Tout comprendre sur le bout des doigts de pieds
 
-En courant pieds nus, en sandales ou avec des chaussures sans amorti, sans «&nbsp;drop&nbsp;» (la hauteur relative du talon) et plates à l'intérieur, le pied fonctionne normalement et tout le corps en est renforcé. Les blessures sont beaucoup moins fréquentes qu'avec des chaussures de course ou de running classiques.  Les coureurs de fond des années 1900-1960 ne se blessaient pas, et avant eux toute l'Humanité, qui court depuis qu'elle existe&nbsp;!
+En courant pieds nus, en sandales ou avec des chaussures sans amorti, sans «&nbsp;drop&nbsp;» (la hauteur relative du talon) et plates à l'intérieur, le pied fonctionne normalement et tout le corps en est renforcé. Les blessures sont beaucoup moins fréquentes qu'avec des chaussures de course ou de running classiques.  Les coureurs de fond des années 1900-1960 ne se blessaient pas en courant et avant eux tous nos ancêtres, qui courent depuis des millions d'années&nbsp;!
 
 Les chaussures classiques ou maximalistes (très rigides avec des talons épais) ont été inventées pour poser le talon en premier afin d'allonger sa foulée mais elles bloquent le fonctionnement naturel du corps, donnent une mauvaise posture et transfèrent l'absorption du choc résiduel aux genoux et à toutes les articulations.
 
