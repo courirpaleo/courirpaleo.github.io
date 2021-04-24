@@ -25,7 +25,7 @@ Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dan
 
 
 ### Red Bull France&nbsp;: Faut-il courir pieds nus comme les Tarahumaras&nbsp;?
-Merci à Red Bull France de nous avoir interrogé pour cet article de mai 2020 sur [la course pieds nus et les formidables coureurs Tarahumaras](https://www.redbull.com/fr-fr/courir-pied-nus-barefoot-running). Le papier cite également notre ami le docteur [Gwendal Galesne de Rennes, spécialiste de la course pieds nus](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359) et marathonien aguerri.
+Merci à Red Bull France de nous avoir interrogé en mai 2020 sur [la course pieds nus et les formidables coureurs Tarahumaras](https://www.redbull.com/fr-fr/courir-pied-nus-barefoot-running). L'article de Red Bull cite également notre ami Gwendal Galesne de Rennes, médecin et marathonien. Cet expert du «&nbsp;barefoot running&nbsp;» explique très bien dans [cet autre article, de Ouest-France, les bienfaits de courir pieds nus](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359).
 
 
 ### Le Journal du Runner - Spécial Marathon de Paris
