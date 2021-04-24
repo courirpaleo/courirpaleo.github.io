@@ -63,16 +63,18 @@ Notre ami Christian Harberts, pionnier de la course pieds nus en France et anima
 
 ## Anatomie & technique
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
-Coté anatomie, physiologie et technique, tous les livres de [Frédéric Brigaud](https://eadconcept.com/coaching-ead/s-initier-au-barefoot-courir-pieds-nus) chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
+Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud (ostéopathe, consultant et formateur en biomécanique humaine et sportive) chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture, le petit guide étant très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
 - [Guide de la foulée](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html) (avec prise d'appui avant-pied)
 - [Corriger le pied sans semelle](https://www.adverbum.fr/editions-desiris/frederic-brigaud/corriger-le-pied-nouvelle-edition_kmc5fm7vaovo.html)
+
+Voir aussi [son site EADConcept](https://eadconcept.com/coaching-ead/s-initier-au-barefoot-courir-pieds-nus).
 
 ### Perfectionnement
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants comme pour les coureurs expérimentés. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés.
 [Voir le site de Light Feet Running](http://www.lightfeetrunning.com/)
 
 ## Vidéos
-Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
+Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
 
 ## Équipement
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
