@@ -72,7 +72,7 @@ Il existe tout un tas de vidéos sur la course minimaliste ou naturelle et nous 
 
 ## Équipement
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
-Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ® ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
+Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
 ### Chaussures
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour une chaussure minimaliste fermée, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
