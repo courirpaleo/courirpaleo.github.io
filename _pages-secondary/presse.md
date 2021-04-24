@@ -22,7 +22,7 @@ Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dan
 [Lire ou acheter le n°51 de Kaizen](https://boutique.kaizen-magazine.com/bimestriels/616-kaizen-51.html)
 
 ### Red Bull France&nbsp;: Faut-il courir pieds nus comme les Tarahumaras&nbsp;?
-Merci à Red Bull France de nous avoir interrogé pour cet article de mai 2020 sur [la course pieds nus et les formidables coureurs Tarahumaras](https://www.redbull.com/fr-fr/courir-pied-nus-barefoot-running). Le papier cite également notre ami le docteur [Gwendal Galesne de Rennes, spécialiste de la course pieds nus et marathonien aguerri.](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359)
+Merci à Red Bull France de nous avoir interrogé pour cet article de mai 2020 sur [la course pieds nus et les formidables coureurs Tarahumaras](https://www.redbull.com/fr-fr/courir-pied-nus-barefoot-running). Le papier cite également notre ami le docteur [Gwendal Galesne de Rennes, spécialiste de la course pieds nus](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359) et marathonien aguerri.
 
 ### Le Journal du Runner - Spécial Marathon de Paris
 Merci à Véronique Bury de nous avoir accompagnés lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [la double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
