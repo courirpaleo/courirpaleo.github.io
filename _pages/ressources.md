@@ -81,7 +81,7 @@ Plusieurs marques de sandales et de chaussures minimalistes existent et notammen
 - [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
 - [EarthRunners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour bricolé des tongs pour une longue marche suite à une panne de voiture.
 
-Un bon point&nbsp;: Xeroshoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
+Un bon point&nbsp;: Xero Shoes et EarthRunners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
 
 Les autres marques&nbsp;:
 - [Pantasandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
