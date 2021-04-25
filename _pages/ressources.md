@@ -9,7 +9,7 @@ Nous ne savons pas tout mais, dans la vie, le plus important c'est de se poser d
 ## Au quotidien
 
 ### Libérons nos pieds&nbsp;!
-Chez nous, soyons pieds nus le plus souvent possibles, en chaussons, en babouches, en mules, en claquettes, en espadrilles ou en chaussettes (attention de ne pas glisser), mais le plus près possible du sol et sans aucune semelle moulée. Notre pied est fait pour être naturellement arqué et pour être en tension. Sa voûte plantaire ne doit surtout pas être «&nbsp;soutenue&nbsp;» par en dessous (poussez une voûte de construction par en dessous et vous la cassez&nbsp;&mdash;&nbsp;appuyez dessus et vous la renforcez...).
+Chez nous, soyons pieds nus le plus souvent possibles, en chaussons, en babouches, en mules, en claquettes, en espadrilles ou en chaussettes (attention de ne pas glisser), mais le plus près possible du sol et sans aucune semelle moulée. Notre pied est fait pour être naturellement arqué et pour être en tension. Sa voûte plantaire ne doit pas être «&nbsp;soutenue&nbsp;» par en dessous (poussez une voûte de construction par en dessous et vous la cassez&nbsp;&mdash;&nbsp;appuyez dessus et vous la renforcez...).
 ![Courir Paleo](/assets/images/CourirPaleo_semelles_bottines_1200px.jpg)
 Dans nos bottes, bottines, boots, chaussures de randonnées, mocassins, baskets... retirons la semelle intérieure moulée et remplaçons-là par une simple semelle de cuir, de laine ou de mousse achetée chez notre coordonnier. Au moins, notre voûte plantaire retrouvera sa tonicité et ne sera plus avachie et affaissée sur ce faux support qui lui fait plus de mal que de bien (lire aussi [notre page sur la foulée naturelle](/foulee-naturelle)). Choisissons ensuite des chaussures plus souples et qui ne serrent pas les pieds, mais cela n'empêche personne d'être élégant&nbsp;! Les souliers minimalistes de tous les jours sont très jolis et des souliers de ville «&nbsp;normaux&nbsp;», à talon raisonnable, lisses à l'intérieur, qui laissent nos orteils bouger a minima, ne vont pas nous faire du mal de temps en temps ou même 5 jours sur 7 si nos pieds travaillent et courent de la bonne façon les soirs et les week-ends.
 
@@ -42,7 +42,7 @@ Ce qui nous importe, c'est que chacun fasse son expérience et s'enrichisse des 
 ### Attention «&nbsp;grands livres rouges&nbsp;»&nbsp;!
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-rouges-1200px.jpg)
 Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désormais cultes de Christopher McDougall, parus chez Guérin/Paulsen, sont incontournables&nbsp;:
-- Dans [«&nbsp;Né pour courir&nbsp;»](https://www.editionspaulsen.com/born-to-run-2293.html) ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumara et surtout qu'il faut courir comme notre corps le prévoit, c'est-à-dire surtout pas en posant le talon en premier comme lors de la marche ([lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
+- Dans [«&nbsp;Né pour courir&nbsp;»](https://www.editionspaulsen.com/born-to-run-2293.html) ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumara et qu'il faut courir comme notre corps le prévoit, c'est-à-dire surtout pas en posant le talon en premier comme lors de la marche ([lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
 - Dans [«&nbsp;Tous des héros&nbsp;»](https://www.editionspaulsen.com/tous-des-heros-1958.html) ("Natural Born Heroes"), il nous emmène en Crête découvrir et revivre une épopée formidable, inouie et héroïque de la Seconde Guerre mondiale, riche en courses mythiques, tout en nous démontrant que, pour être dans une forme olympique, point n'est besoin d'aller à la salle de gym ou d'acheter du matériel&nbsp;!
 
 Toujours chez Guérin/Paulsen, Jean-Philippe nous permet aussi&nbsp;:
@@ -79,7 +79,7 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 
 ## Équipement
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
-Ci-dessus&nbsp;: fabriquer ses propres sandales huaraches dans une semelle Vibram ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
+Ci-dessus&nbsp;: couper ses propres sandales huaraches dans une semelle en caoutchouc ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
 ### Chaussures
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour des chaussures minimalistes fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
@@ -92,14 +92,14 @@ Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les 
 
 Les autres marques&nbsp;:
 - [Panta Sandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
-- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont très confortables mais parfois, selon les modèles, plus destinés à la marche qu'à la course.
-- [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (les VFF, Vibram Five Fingers) et dans d'autres modèles.
+- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont confortables mais parfois plus destinés à la marche qu'à la course d'après notre expérience.
+- [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de chaussures de sports, de randonnée et de vêtements de plein-air.
 
 Certaines de ces marques ne sont pas encore distribuées en France (mais pratiquent l'expédition) et d'autres sont disponibles chez deux revendeurs français, ce qui est toujours mieux&nbsp;:
 - Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui nous envoient leurs clients pour apprendre à courir léger, qui ont co-organisé avec nous une sortie découverte et que nous saluons (merci Peter&nbsp;!).
-- Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica!).
+- Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica&nbsp;!).
 
 ### Vêtements & accessoires
 Au-delà des sandales ou des chaussures, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
