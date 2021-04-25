@@ -70,7 +70,7 @@ Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud 
 Voir aussi son site EAD Concept et notamment cette page sur [l'initiation à la course pieds nus](https://eadconcept.com/coaching-ead/s-initier-au-barefoot-courir-pieds-nus).
 
 ### Perfectionnement
-Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants comme pour les coureurs expérimentés. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés.
+Pour les avoir appréciés nous-mêmes, nous recommandons vivement les ouvrages et les ateliers d'apprentissage de la foulée légère de Light Feet Running, pour les débutants, les coureurs expérimentés et aussi les coachs sportifs. Ces ateliers d'une demi-journée, menés par Solarberg Séhel ou ses formateurs, offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés. Enfin, Light Feet Running offre 10% de remise aux membres de Courir Paléo mais l'association ne touche rien&nbsp;! Elle se contente de recommander de bons professionnels qu'elle a testé et apprécié.
 
 [Voir le site de Light Feet Running](http://www.lightfeetrunning.com).
 
