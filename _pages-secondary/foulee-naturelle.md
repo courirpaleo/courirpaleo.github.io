@@ -32,7 +32,7 @@ Certains changent leur foulée en 15 jours, d'autres en deux ans&nbsp;! Aucune r
 Ensuite, plus on progresse, moins on sollicite les mollets et au contraire davantage les fessiers, afin d'engager la hanche et la jambe devant soi, le pied effleurant alors simplement le sol pour finir en mouvement de fouet vers l'arrière et nous propulser en avant.
 
 - Voir notre page [Presse](/presse) pour d'autres articles sur la foulée naturelle.
-- Voir notre page [Ressources](/ressources) pour d'autres conseils ainsi qu'un lien vers Light Feet Running, qui organise des ateliers sur cette foulée.
+- Voir notre page [Ressources](/ressources) pour d'autres conseils, des liens vers des livres et des coachs spécialistes de cette foulée.
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_foulees_1200px.jpg)
 
