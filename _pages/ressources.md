@@ -48,6 +48,7 @@ Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désor
 Toujours chez Guérin/Paulsen, Jean-Philippe nous permet aussi&nbsp;:
 - De connaître les secrets d'un des meilleurs entraîneurs mondiaux, Eric Orton, dans [«&nbsp;No limit - Le trail en harmonie&nbsp;»](https://www.editionspaulsen.com/no-limit-1884.html).
 - De découvrir dans [«&nbsp;Bêtes de course&nbsp;»](https://www.editionspaulsen.com/betes-de-course-2254.html) comment observer le règne animal a permis à Bernd&nbsp;Heinrich d'acquérir des capacités d'endurance hors-normes&nbsp;&mdash;&nbsp;et donc comment faire pareil à notre niveau, même modestement.
+- De connaître les motivations des coureurs d'ultra marathons dans [Ultraterrestres](https://www.editionspaulsen.com/les-ultraterrestres-2246.html), par Adharanand Finn, journaliste du Guardian qui s'est lancé dans l'aventure de la course longue distance.
 
 Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce bel ouvrage signé cette fois de Jean-Philippe, écrivain lui-même en plus d'être ultra-traileur, traducteur et cher à Courir&nbsp;Paléo&nbsp;:
 - [«&nbsp;La Folle Histoire du trail&nbsp;»](https://www.editionspaulsen.com/la-folle-histoire-du-trail-2126.html), ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si chez Courir&nbsp;Paléo nous ne recommandons évidemment pas les chaussures classiques ou maximalistes&nbsp;!
