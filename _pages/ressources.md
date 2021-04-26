@@ -71,7 +71,7 @@ Voir aussi son site EAD Concept et notamment cette page sur [l'initiation à la 
 
 ### Perfectionnement
 ![Courir Paleo](/assets/images/CourirPaleo_Livre_Light-Feet-Running_1200px.jpg)
-Pour les avoir appréciés nous-mêmes, nous recommandons vivement le livre «&nbsp;Courir léger&nbsp;» de Solarberg Séhel et ses ateliers d'apprentissage Light Feet Running de la foulée légère. Ces sessions d'une demi-journée pour les débutants, les coureurs expérimentés et aussi les coachs sportifs offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés. Enfin, Light Feet Running offre 10% de remise aux membres de Courir Paléo mais l'association ne touche rien&nbsp;! Elle se contente de recommander de bons professionnels qu'elle a testé et apprécié.
+Pour les avoir appréciés nous-mêmes, nous recommandons vivement le livre «&nbsp;Courir léger&nbsp;» de Solarberg Séhel et ses ateliers d'apprentissage Light Feet Running de la foulée légère. Ces sessions d'une demi-journée pour les débutants, les coureurs expérimentés et aussi les coachs sportifs offrent une véritable instruction technique sur la biomécanique de la foulée. Ils vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés. Enfin, Light Feet Running offre 10% de remise aux membres de Courir Paléo.
 
 [Voir le site de Light Feet Running](http://www.lightfeetrunning.com).
 
