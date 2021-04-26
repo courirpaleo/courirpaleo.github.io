@@ -108,7 +108,8 @@ Dans ce domaine, là encore nous laissons chacun libre de s'acheter les vêtemen
 
 Aussi, nous sommes en train de voir comment proposer un choix spécifique de vêtements de course en lin, chanvre, laine mérinos, coton ciré (pour la pluie), voire en bambou ou d'autres matériaux, et bien sûr d'origine française ou voisine.
 
-Enfin, et c'est un choix subjectif sans aucune influence de la marque, qui ne nous connaît même pas, nous aimons beaucoup [la gourde Le Grand Tétras](https://www.lagourdefrancaise.com)&nbsp;: française, née en 1912, typée, stylée, élégante, robuste, durable, en métal et écoresponsable&nbsp;!
+![Courir Paleo](/assets/images/CourirPaleo_gourdes_Le-Grand-Tetras_1200px.jpg)
+Enfin, et c'est un choix subjectif sans aucune influence de la marque, qui ne nous connaît même pas, nous aimons beaucoup le modèle historique et la version isotherme de [la gourde Le Grand Tétras](https://www.lagourdefrancaise.com)&nbsp;: française, née en 1912, typée, stylée, élégante, robuste, durable, en métal et écoresponsable&nbsp;!
 
 ## Esprit & philosophie
 Nous encourageons également tout le monde à développer ses sensations, sa perception du terrain, de l'effort, du temps qui passe et du temps qu'il fait, etc. Ainsi, un coureur minimaliste dans toute son attitude et pas seulement pieds nus ou équipé de chaussures minimalistes, non seulement aura une foulée légère et naturelle, mais saura aussi évaluer sa vitesse sans instrument, se rafraîchir dans une rivière et s'hydrater en buvant peu, s'alimenter de mûres au lieu de transporter un en-cas, courir en pleine conscience sans autre but que de courir libre, ne pas chercher la performance mais pourtant se lancer des défis imprévus, saura écouter son corps, connaîtra son rythme cardiaque ou sa limite d'efforts sans aucun appareil, choisira aussi de s'arrêter un moment pour écouter les oiseaux ou le vent...
