@@ -36,7 +36,7 @@ L'Homme paléolithique, un chasseur-cueilleur endurant, était frugal, forcémen
 
 Donc, sans être un collectif de mangeurs paléo, notre association encourage toutefois la consommation de fruits, de légumes et de bonnes graisses et nous sommes d'accord avec [le mea culpa de Tim Noakes](https://www2.u-trail.com/tim-noakes), qui avoue qu'il s'est trompé pendant des décennies et que les glucides ne sont pas la bonne source d'énergie pour l'effort d'endurance. Un ultra-traileur de Courir&nbsp;Paléo avait l'habitude il y a longtemps de grignoter une barre de céréales toutes les 30&nbsp;minutes. Maintenant, il court 100&nbsp;km sans manger car son métabolisme est bien plus efficient en se nourrissant de bonnes graisses, notamment végétales comme le beurre d'arachides.
 
-Ce qui nous importe, c'est que chacun fasse son expérience et s'enrichisse des découvertes et des avancées des autres. Pour la majorité de nos amis et membres, qu'ils soient végétariens, végétaliens, flexitariens ou rien du tout, ce qui compte, c'est de se nourrir en adéquation avec ses choix personnels et surtout de la meilleure façon pour son corps, pour autrui (les producteurs) et pour la Nature.
+Nous souhaitons que chacun fasse son expérience et s'enrichisse des découvertes et des avancées des autres. Pour la majorité de nos amis et membres, qu'ils soient végétariens, végétaliens, flexitariens ou rien du tout, ce qui compte, c'est de se nourrir en adéquation avec ses choix personnels et surtout de la meilleure façon pour son corps, pour autrui (les producteurs) et pour la Nature.
 
 ## Lectures
 ### Attention «&nbsp;grands livres rouges&nbsp;»&nbsp;!
