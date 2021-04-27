@@ -54,12 +54,14 @@ h3 {
   margin-top: 6px;
 }
 
+
+
+@media (max-width: 640px) {
+
 .post {
   padding: 1rem 1rem;
 }
 
-
-@media (max-width: 640px) {
 
   .logo {
     width: 60%;
