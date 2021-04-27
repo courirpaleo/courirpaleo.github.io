@@ -69,6 +69,11 @@ p {
 margin-block-start: 0em;
 }
 
+p a:hover {
+color: #D15726;
+text-decoration: none;
+}
+
 @media (max-width: 640px) {
 
 .post {
