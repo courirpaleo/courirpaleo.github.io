@@ -220,18 +220,18 @@ footer {
     mask-repeat: no-repeat;
     &.fb {
       background-color: #1877f2;
-      -webkit-mask-image: url(/assets/images/facebook-square-brands.svg);
-      mask-image: url(/assets/images/facebook-square-brands.svg);
+      -webkit-mask-image: url(/assets/logos/facebook-square-brands.svg);
+      mask-image: url(/assets/logos/facebook-square-brands.svg);
     }
     &.tw {
       background-color: #1da1f3;
-      -webkit-mask-image: url(/assets/images/twitter-square-brands.svg);
-      mask-image: url(/assets/images/twitter-square-brands.svg);
+      -webkit-mask-image: url(/assets/logos/twitter-square-brands.svg);
+      mask-image: url(/assets/logos/twitter-square-brands.svg);
     }
     &.ig {
       background-color: #e1306c;
-      -webkit-mask-image: url(/assets/images/instagram-square-brands.svg);
-      mask-image: url(/assets/images/instagram-square-brands.svg);
+      -webkit-mask-image: url(/assets/logos/instagram-square-brands.svg);
+      mask-image: url(/assets/logos/instagram-square-brands.svg);
     }
   }
 }
