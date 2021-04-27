@@ -84,7 +84,7 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 Ci-dessus&nbsp;: couper ses propres sandales huaraches dans une semelle en caoutchouc ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
 ### Chaussures
-Que vous vouliez courir pieds nus, fabriquer vos propres sandales huaraches, les acheter toutes faites ou opter plutôt pour des chaussures minimalistes fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
+Que vous vouliez courir pieds nus, fabriquer vos propres sandales, les acheter toutes faites ou opter plutôt pour des chaussures minimalistes fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
 - [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
