@@ -6,7 +6,7 @@ summary: Venez courir avec nous et vous sentir légers !
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_table_1200px.jpg)
 # Prochaines sorties à Paris
 
-## Découvrir, s'initier, s'amuser, partager des impressions
+## Découvrir, s'initier, s'amuser, partager des impressions, apprendre
 
 Nous organisons des sorties d'initiation, de découverte de la foulée naturelle et de partage d'expérience le premier dimanche de chaque mois à Paris, le matin, selon le calendrier qui suit.
 Nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent découvrir une nouvelle façon de courir sans se blesser et nous organisons des ateliers pratiques sur du sable, de l'herbe, de la piste ou un trottoir, selon l'endroit.
@@ -28,7 +28,7 @@ Voir en bas de page pour les lieux de rendez-vous précis.​
 - Nous courons ou effectuons des démonstrations de 10h à 11h environ.
 - Nous terminons par un café ou un verre pour ceux qui le souhaitent (quand les cafés seront rouverts&nbsp;!).
 
-## Lieux de rendez-vous à Paris des sorties et ateliers Courir&nbsp;Paléo
+### Lieux de rendez-vous à Paris des sorties et ateliers Courir&nbsp;Paléo
 - Parc Montsouris&nbsp;: devant [La Bonbonnière](https://goo.gl/maps/RUvVHuyTAXZ8Kg8XA).
 - Bois de Vincennes&nbsp;: devant [le loueur de barques du lac Daumesnil](https://goo.gl/maps/cTo9py5b5GwrV8KC9), côté Porte Dorée.
 - Stade Suzanne Lenglen&nbsp;: devant [les gradins autour de la piste d'athlétisme](https://goo.gl/maps/dx16s8HVGmrYxbMb8), coté ouest.
