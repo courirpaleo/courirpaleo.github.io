@@ -64,3 +64,6 @@ Aujourd'hui, de nombreuses marques de chaussures minimalistes proposent de très
 Nous prêtons des sandales de marques Unshoes ou Xero Shoes ainsi que des modèles fabriqués par nos soins à celles et ceux qui viennent découvrir la course naturelle lors de nos sorties. Les sandales sont plus pratiques que les chaussures fermées pour cette initiation car elles s'ajustent facilement aux formes de pieds et aux différences de taille grâce à leurs sangles ou cordelette. Bien entendu, et nous n'avions pas attendu le coronavirus pour le faire, nous les désinfectons toujours avant chaque prêt&nbsp;!
 
 Alors à bientôt&nbsp;?
+
+- [Joignez-vous à notre prochaine sortie parisienne](/sorties)
+- [Contactez-nous](/contact)
