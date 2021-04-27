@@ -58,9 +58,12 @@ Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce
 Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George&nbsp;Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher&nbsp;McDougall dans «&nbsp;Tous des héros&nbsp;».
 
 ### Le pionnier
-Notre ami Christian Harberts, pionnier de la course pieds nus en France et animateur du «&nbsp;chapitre&nbsp;» français de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
+![Courir Paleo](/assets/images/CourirPaleo_Christian-Harberts_Noel_1200px.jpg)
+Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et animateur de la section française de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
 - son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com)
 - le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1)
+
+Christian est aussi l'inventeur du [Traiball](https://trailball.net), un jeu étonnant «&nbsp;balle au pied&nbsp;» à découvrir.
 
 ## Anatomie & technique
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
