@@ -11,7 +11,7 @@ En courant pieds nus, en sandales ou avec des chaussures sans amorti, sans «&nb
 
 Les chaussures classiques ou maximalistes (très rigides avec des talons épais) ont été inventées pour poser le talon en premier afin d'allonger sa foulée mais elles bloquent le fonctionnement naturel du corps, donnent une mauvaise posture et transfèrent l'absorption du choc résiduel aux genoux et à toutes les articulations.
 
-De plus, ces chaussures classiques, comme la majorité des baskets, bottes ou bottines, comprennent une semelle intérieure galbée destinée à soutenir la voûte plantaire. Au contraire, cette semelle la fragilise car notre pied doit resté naturellement arqué, en tension, et ce faux support galbé le conduit en réalité à s'avachir et l'affaiblit.
+De plus, ces chaussures classiques, comme la majorité des baskets, bottes ou bottines, comprennent une semelle intérieure galbée destinée à soutenir la voûte plantaire. Au contraire, cette semelle la fragilise car notre pied doit rester naturellement arqué, en tension, et ce faux support galbé le conduit en réalité à s'avachir et l'affaiblit.
 
 ### La Nature a tout prévu&nbsp;!
 
@@ -27,7 +27,7 @@ Quand on court, on ne marche pas vite d'un pied à l'autre, non, c'est différen
 ### Une affaire de sensations
 D'un coureur à l'autre et selon le terrain, la pose du pied au sol se fera sur le tiers avant environ ou la partie médiane du pied. Au début du réapprentissage de la course naturelle, l'erreur consiste à se tenir trop sur la pointe des pieds par peur de taper le talon. Cette position sollicite trop les mollets&nbsp;; c'est pour cela qu'il ne faut surtout pas courir longtemps quand on entame sa transition vers une foulée minimaliste et naturelle. Il faut y aller progressivement, en commençant pas de très courtes distances (1, 2, 3&nbsp;km maximum, selon le niveau de chacun) et ensuite, la posture s'améliorant et les mollets étant moins sollicités, on pourra courir davantage.
 
-Certains changent leur foulée en 15 jours, d'autres en deux ans&nbsp;! Aucune règle en la matière, mais du bon sens, de la prudence et de l'écoute (de son corps et de gens sympathiques comme nos membres&nbsp;!). Sur ce sujet, le Dr. Gwendal Galesne, coureur pieds nus lui-même, donne de très bons conseils dans cet [article de Ouest-France sur la course pieds nus ou minimaliste](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359) et la transition pour retrouver sa foulée naturelle.
+Certains changent leur foulée en 15 jours, d'autres en deux ans&nbsp;! Aucune règle en la matière, mais du bon sens, de la prudence, de l'écoute (de son corps et de gens sympathiques comme nos membres&nbsp;!) et du repos&nbsp;&mdash;&nbsp;ne jamais forcer et laisser à son organisme le temps de s'adapter à de nouveaux efforts. Sur ce sujet, le Dr. Gwendal Galesne, coureur pieds nus lui-même, donne de très bons conseils dans cet [article de Ouest-France sur la course pieds nus ou minimaliste](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359) et la transition pour retrouver sa foulée naturelle.
 
 Ensuite, plus on progresse, moins on sollicite les mollets et au contraire davantage les fessiers, afin d'engager la hanche et la jambe devant soi, le pied effleurant alors simplement le sol pour finir en mouvement de fouet vers l'arrière et nous propulser en avant.
 
