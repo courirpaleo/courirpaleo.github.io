@@ -24,9 +24,9 @@ Ci-dessus&nbsp;: rivière en sous-bois en Balagne (Corse)&nbsp;&mdash;&nbsp;un t
 Quelques astuces pour gagner en souplesse et en résistance&nbsp;:
 - Accroupissons-nous. Certes, cette position est malheureusement dévalorisée et avoir des toilettes avec un siège est perçu comme un progrès, mais pourtant c'est une excellente position pour évacuer les selles et &mdash;&nbsp;plus important pour nous ici&nbsp;&mdash; assouplir ses hanches, rotules, chevilles et gagner en souplesse. Notre fondateur ne pouvait plus courir à cause d'un ménisque fracturé et déplacé et a justement créé Courir Paléo après s'être soigné tout seul&nbsp;: aujourd'hui, son articulation s'est renforcée, sans chirurgie ni traitement, notamment par de tels exercices et en optant, bien entendu, pour une foulée naturelle.
 - Travaillons et téléphonons debout, mangeons debout accoudés à un comptoir, passons le moins de temps possible assis ou assise. Notre corps n'est pas fait pour être assis, sauf occasionnellement, et nous savons depuis le point précédent qu'on peut aussi se reposer accroupi et pas assis&nbsp;!
-- Tenons-nous souvent sur une jambe, travaillons notre équilibre, avant plus tard de forcer la difficulté en man&oelig;uvrant par exemple nos interrupteurs muraux avec les orteils&nbsp;!
+- Tenons-nous souvent sur une jambe, travaillons notre équilibre, avant plus tard de forcer la difficulté en man&oelig;uvrant par exemple nos interrupteurs avec les orteils&nbsp;!
 - Faisons des exercices de renforcement des pieds et de la voûte plantaire avec une balle de golf ou de ping-pong, des cailloux ou des billes à attraper entre les orteils etc.
-- Et bien sûr, faisons du sport, n'importe lequel, du gainage, du yoga, de la corde à sauter, des pilates, marchons, bougeons, nageons, dansons... allons nous ressourcer (pieds nus&nbsp;!) en forêt, à la montagne ou au bord de la mer.
+- Et bien sûr, faisons du yoga, des pilates, du gainage, du sport, n'importe lequel, de la corde à sauter, marchons, bougeons, nageons, dansons... allons nous ressourcer (pieds nus&nbsp;!) en forêt, à la montagne ou au bord de la mer.
 
 ## Alimentation
 ![Courir Paleo](/assets/images/CourirPaleo_photo_marque_MQ_1200px.jpg)
