@@ -49,7 +49,7 @@ Nous ne sommes pas hostiles à la technologie, mais nous pensons que notre corps
 Certes, parfois une telle opération ou un traitement médical est nécessaire, mais notre corps est aussi capable de se réparer et de se guérir tout seul dans la majorité des cas. Il suffit de se poser les bonnes questions et de traiter la source du bobo et pas sa conséquence&nbsp;: ici, les chocs aux talons, aux genoux et aux vertèbres et à bien d'autres articulations ou des douleurs musculaires, dus à une mauvaise foulée, pas au fait de courir. La douleur n'est que la conséquence et c'est la cause du problème qu'il faut supprimer ou atténuer, en optant donc pour une foulée naturelle. De plus, adopter cette bonne foulée réduit les pressions sur les vertèbres, atténuant ou supprimant ainsi le mal au dos ou même les migraines chez des coureurs que nous connaissons&nbsp;!
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_IdF_sandales_pierres_1200px.jpg)
-Ci-dessus&nbsp;: des pieds en parfait état sans aucune blessure ni ampoule après 27km de bonheur en bordure de la Brie.
+##### Des pieds en parfait état sans aucune blessure ni ampoule après 27km de bonheur en bordure de la Brie.
 
 Quant aux chaussures, et bien elles sont conçues pour protéger nos pieds du froid, de la chaleur, des ronces, des cailloux... mais pas des chocs dus à la course&nbsp;! Ces chocs-là, notre corps sait très bien comment les éviter comme nous l'avons vu plus haut. Il est fait pour courir en posant l'avant du pied ou la partie médiane du pied en premier.
 
