@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Courir Paléo, club de course minimaliste et naturelle, association à Paris
 ---
 ![Courir Paleo](/assets/images/CourirPaleo_course_Parc-Montsouris_foulees_1200px.jpg)
@@ -14,4 +13,3 @@ Au sein de Courir Paléo, nous partageons les informations, les astuces et les b
 
 À notre image, ce site Internet aussi est minimaliste, épuré mais efficient, joyeusement frugal mais gourmand quand même, économe mais épanoui.
 
-{% include blocks.html %}
