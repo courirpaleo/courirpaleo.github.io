@@ -28,19 +28,19 @@ Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dan
 Merci à Red Bull France de nous avoir interrogé en mai 2020 sur [la course pieds nus et les formidables coureurs Tarahumaras](https://www.redbull.com/fr-fr/courir-pied-nus-barefoot-running). L'article de Red Bull cite également notre ami Gwendal Galesne de Rennes, médecin et marathonien. Cet expert du «&nbsp;barefoot running&nbsp;» explique très bien dans [cet autre article, de Ouest-France, les bienfaits de courir pieds nus](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359).
 
 
-### Le Journal du Runner - Spécial Marathon de Paris
+### Le Journal du Runner&nbsp;: Spécial Marathon de Paris
 Merci à Véronique Bury de nous avoir accompagnés lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [la double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
 
 
-### Le Figaro Madame
+### Le Figaro Madame&nbsp;: Minimalistes ou pas&nbsp;?
 Merci à Tiphaine Honnet du Figaro Madame de nous avoir interviewé pour [son article «&nbsp;Running&nbsp;: faut-il se mettre aux chaussures minimalistes&nbsp;?&nbsp;»](https://madame.lefigaro.fr/bien-etre/running-faut-il-se-mettre-aux-chaussures-minimalistes-baskets-010319-164044), du 1er mars 2019.
 
 
-### Néon
+### Néon&nbsp;: J'ai testé pour vous
 Merci à Léa Esmery de Néon d'avoir courageusement essayé la course naturelle avec nous au parc Montsouris en février 2018. Lire son article&nbsp;: [«&nbsp;Je suis allée courir pieds nus avec les adeptes du barefoot running&nbsp;»](https://www.neonmag.fr/je-suis-alle-courir-pieds-nus-avec-les-adepte-du-barefoot-running-502371.html).
 
 
-### L'Équipe (magazine)
+### L'Équipe (magazine)&nbsp;: «&nbsp;Les pieds dans le plat&nbsp;»
 ![Courir Paleo](/assets/images/CourirPaleo_couv_Equipe_Mag_1200px.jpg)
 Nous sommes heureux et flattés que Courir Paléo ait été cité dans «&nbsp;L’Équipe&nbsp;» (magazine) n°1836 du samedi 23 septembre 2017. Trois pages d'ouverture de la rubrique Tendances dans lesquelles Bruno Garay (texte) et Julien Faure (photos) mettent «&nbsp;Les pieds dans le plat&nbsp;» (c'est le titre) pour parler de cette «&nbsp;frange d'irréductibles joggers qui prône un retour aux sensations originelles de la course&nbsp;».
 Lire [le reportage sur Courir Paléo dans L'Équipe Magazine](https://courirpaleo.github.io/assets/documents/LEquipe-Mag-23-09-2017-Tendances.pdf).
