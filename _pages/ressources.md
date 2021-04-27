@@ -87,7 +87,7 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales, les acheter toutes faites ou opter plutôt pour des chaussures minimalistes fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
-- [Luna Sandals](https://lunasandals.com/pages/roots-of-luna-sandals), marque historique créée par ["Barefoot Ted"](https://www.barefootted.com/bio), personnage bien réel du livre «&nbsp;Né pour courir&nbsp;» qui courait d'abord pieds nus puis s'est converti aux huaraches et a fondé sa marque.
+- [Luna Sandals](https://lunasandals.com/pages/roots-of-luna-sandals), marque historique créée par ["Barefoot Ted"](https://www.barefootted.com/bio), personnage bien réel du livre «&nbsp;Né pour courir&nbsp;», qui courait d'abord pieds nus puis s'est converti aux huaraches et a fondé sa marque.
 - [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des fabricants américains et marque créée par Steven Sashen et sa femme Lena Phoenix en 2009 sous le premier nom de "Invisible Shoes".
 - [Earth Runners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour bricolé des tongs pour une longue marche suite à une panne de voiture.
 
