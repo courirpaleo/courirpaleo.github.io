@@ -62,8 +62,7 @@ Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.
 Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et animateur de la section française de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
 - son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com)
 - le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1)
-
-Christian est aussi l'inventeur du [Traiball](https://trailball.net), un jeu étonnant «&nbsp;balle au pied&nbsp;» à découvrir.
+- le site du [Traiball](https://trailball.net), un jeu et sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et qui mérite d'être découvert.
 
 ## Anatomie & technique
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
