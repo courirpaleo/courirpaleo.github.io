@@ -16,14 +16,14 @@ L'accès est libre et gratuit de 5 à 95 ans, sans réservation&nbsp;&mdash;&nbs
 Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes masqués pour les exercices statiques, nous restons à bonne distance pour courir et les sandales sont désinfectées avant chaque prêt, comme avant la pandémie&nbsp;!
 Voir en bas de page pour les lieux de rendez-vous précis.​
 
-## Calendrier
+### Calendrier
 - Dimanche 2 mai 2021&nbsp;: Bois de Vincennes
 - Dimanche 6 juin 2021&nbsp;: Quai Rive Gauche / Piscine Joséphine Baker
 - Dimanche 4 juillet 2021&nbsp;: Parc Montsouris
 - Dimanche 1er août 2021&nbsp;: Stade Suzanne Lenglen
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
-## Format
+### Format
 - Accueil de 9h30 à 10h.
 - Nous courons ou effectuons des démonstrations de 10h à 11h environ.
 - Nous terminons par un café ou un verre pour ceux qui le souhaitent (quand les cafés seront rouverts&nbsp;!).
