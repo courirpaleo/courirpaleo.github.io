@@ -93,6 +93,7 @@ Plusieurs marques de sandales et de chaussures minimalistes existent et notammen
 Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
 
 Les autres marques&nbsp;:
+- [Kimana](https://www.kisskissbankbank.com/fr/projects/kimana), la petite dernière, fabriquée avec amour par [Laura Kollaard dans les Pyrénées-Orientales](https://dis-leur.fr/pyrenees-orientales-kimana-sandale-minimaliste-qui-marche-dans-vos-pas) et que nous avons hâte de commander pour l'essayer.
 - [Panta Sandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
 - [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont confortables mais parfois plus destinés à la marche qu'à la course d'après notre expérience.
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
