@@ -37,7 +37,7 @@ Merci à Tiphaine Honnet du Figaro Madame de nous avoir interviewé pour [son ar
 
 
 ### Néon&nbsp;: J'ai testé pour vous
-Merci à Léa Esmery de Néon d'avoir courageusement essayé la course naturelle avec nous au parc Montsouris en février 2018. Lire son article&nbsp;: [«&nbsp;Je suis allée courir pieds nus avec les adeptes du barefoot running&nbsp;»](https://www.neonmag.fr/je-suis-alle-courir-pieds-nus-avec-les-adepte-du-barefoot-running-502371.html).
+Merci à Léa Esmery de Néon d'avoir courageusement essayé la course naturelle avec nous au parc Montsouris en février 2018. Lire son article, très complet et riche de nombreux témoignages d'experts&nbsp;: [«&nbsp;Je suis allée courir pieds nus avec les adeptes du barefoot running&nbsp;»](https://www.neonmag.fr/je-suis-alle-courir-pieds-nus-avec-les-adepte-du-barefoot-running-502371.html).
 
 
 ### L'Équipe (magazine)&nbsp;: «&nbsp;Les pieds dans le plat&nbsp;»
