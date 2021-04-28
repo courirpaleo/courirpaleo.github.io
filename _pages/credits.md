@@ -12,9 +12,9 @@ Beaucoup de belles choses à découvrir dans leurs espaces&nbsp;:
 - Elisa Denève : [asile.studio](http://asile.studio)
 
 ### Polices de caractères
-Les polices de ce site ont été généreusement mises à disposition de tous, libres de droits, par leurs créateurs :
-- Les titres des pages de ce site CourirPaleo.fr sont composés en [Brizeux](http://brizeux-typographie.fr), une police créée par Lucas Le Bihan, [Dreams Office](https://www.dreamsoffice.fr).
-- Les textes du site sont composés en [Paysage](http://tunera.xyz/fonts/paysage), créée donc par Anton Moglia, [Maous Studio](http://www.maous.fr).
+Ce site utilise deux polices de caractères&nbsp;:
+- Les titres des pages sont composés en [Brizeux](http://brizeux-typographie.fr), une police créée par Lucas Le Bihan, [Dreams Office](https://www.dreamsoffice.fr). Brizeux est gratuite, distribuée sous licence Creative Commons BY-ND.
+- Les textes sont composés en [Paysage](http://tunera.xyz/fonts/paysage), créée donc par Anton Moglia, [Maous Studio](http://www.maous.fr). Paysage est libre de droits.
 
 ### Création du site Internet
 Ce site Internet est minimaliste lui aussi, comme notre approche de la course. Minimaliste dans son design et minimaliste car il utilise le générateur de sites statiques [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel)). Grâce à Jekyll, aucune ligne de code inutile, rien que l'essentiel et un hébergement de pages Web qui consomme peu d'énergie&nbsp;! Soyons tous frugaux dans nos vies réelles et numériques.
