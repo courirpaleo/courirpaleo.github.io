@@ -123,7 +123,7 @@ Nous encourageons également tout le monde à développer ses sensations, sa per
 Tout ceci nous conduit bien plus loin que la foulée naturelle d'un point de vue technique ou les chaussures minimalistes et chacun fait ce qu'il veut, mais en tout cas l'esprit de l'association Courir&nbsp;Paléo est de nous faire tous progresser dans ces domaines et donc plus tard d'organiser des rencontres et des courses «&nbsp;minimalistes&nbsp;» à bien des égards.
 
 ![Courir Paleo](/assets/images/CourirPaleo_course_Corse_Balagne_sentiers_crete_1200px.jpg)
-##### Sentiers autour de Sant'Antonino (Corse), un terrain idéal pour courir léger&nbsp;!
+##### Sentiers et pistes autour de Sant'Antonino (Corse)&nbsp;: un terrain idéal pour courir léger&nbsp;!
 
 
 
