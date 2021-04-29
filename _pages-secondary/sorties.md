@@ -17,9 +17,9 @@ Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes mas
 Voir en bas de page pour les lieux de rendez-vous précis.​
 
 ### Calendrier
-- Dimanche 2 mai 2021&nbsp;: Parc Montouris ou Bois de Vincennes (sera précisé avant)
+- Dimanche 2 mai 2021&nbsp;: Parc Montouris
 - Dimanche 6 juin 2021&nbsp;: Quai Rive Gauche / Piscine Joséphine Baker
-- Dimanche 4 juillet 2021&nbsp;: Parc Montsouris
+- Dimanche 4 juillet 2021&nbsp;: Bois de Vincennes
 - Dimanche 1er août 2021&nbsp;: Stade Suzanne Lenglen
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
