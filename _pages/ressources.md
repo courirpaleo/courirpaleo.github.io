@@ -85,8 +85,8 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
 ##### Couper ses propres sandales huaraches dans une semelle en caoutchouc ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
-### Chaussures
-Que vous vouliez courir pieds nus, fabriquer vos propres sandales, les acheter toutes faites ou opter plutôt pour des chaussures minimalistes fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
+### Sandales & chaussures
+Que vous vouliez courir pieds nus, fabriquer vos propres sandales, les acheter toutes faites ou opter plutôt pour des chaussures fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
 - [Luna Sandals](https://lunasandals.com/pages/roots-of-luna-sandals), marque historique créée par ["Barefoot Ted"](https://www.barefootted.com/bio), personnage bien réel du livre «&nbsp;Né pour courir&nbsp;», qui courait d'abord pieds nus puis s'est converti aux sandales des Tarahumaras après sa rencontre avec Manuel Luna.
