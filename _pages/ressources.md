@@ -91,16 +91,16 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales, les acheter toutes faites ou opter plutôt pour des chaussures fermées, nous sommes là pour vous aider à faire le bon choix, profitant de nos erreurs passées et de notre expérience.
 
 Plusieurs marques de sandales et de chaussures minimalistes existent et notamment&nbsp;:
-- [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des marques américaines, créée en 2009 par Steven Sashen et sa femme Lena Phoenix sous le premier nom de "Invisible Shoes".
+- [Xero Shoes](https://xeroshoes.com/xero-shoes-story), pionnier des marques américaines de sandales, créée en 2009 par Steven Sashen et sa femme Lena Phoenix sous le premier nom de "Invisible Shoes".
 - [Luna Sandals](https://lunasandals.com/pages/roots-of-luna-sandals), marque créée en 2010 par ["Barefoot Ted"](https://www.barefootted.com/bio), personnage bien réel du livre «&nbsp;Né pour courir&nbsp;», qui courait d'abord pieds nus puis s'est converti aux sandales des Tarahumaras après sa rencontre avec Manuel Luna en 2006.
 - [Earth Runners](https://www.earthrunners.com/pages/about-us), marque créée par Mike Delly après avoir un jour bricolé des tongs pour une longue marche suite à une panne de voiture.
 
 Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
 
 Les autres principales marques&nbsp;:
-- [Kimana](https://dis-leur.fr/pyrenees-orientales-kimana-sandale-minimaliste-qui-marche-dans-vos-pas), la petite dernière, fabriquée sur-mesure avec passion par Laura Kollaard dans les Pyrénées-Orientales. Une [très belle initiative locale à soutenir](https://www.kisskissbankbank.com/fr/projects/kimana) et que nous allons vite commander pour l'essayer.
+- [Kimana](https://dis-leur.fr/pyrenees-orientales-kimana-sandale-minimaliste-qui-marche-dans-vos-pas), la petite dernière, sandale fabriquée sur-mesure avec passion par Laura Kollaard dans les Pyrénées-Orientales. Une [très belle initiative locale à soutenir](https://www.kisskissbankbank.com/fr/projects/kimana) et que nous allons vite commander pour l'essayer.
 - [Panta Sandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
-- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont confortables mais dont certains modèles sont plus destinés à la marche qu'à la course d'après notre expérience.
+- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premières sandales de prêt, confortables mais pas toutes destinées à la course à la course d'après notre expérience, et qui fabrique aussi des sortes d'espadrilles et d'autres modèles fermés.
 - [Nörd Zero](https://nordrepublic.com/fr/produit/sandales-minimalistes-nord-zero), sandales que nous n'avons jamais testées.
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
