@@ -97,17 +97,19 @@ Plusieurs marques de sandales et de chaussures minimalistes existent et notammen
 
 Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les [Tarahumaras](https://fr.wikipedia.org/wiki/Tarahumaras).
 
-Les autres principales marques&nbsp;:
+#### Les autres sandales&nbsp;:
 - [Kimana](https://dis-leur.fr/pyrenees-orientales-kimana-sandale-minimaliste-qui-marche-dans-vos-pas), la petite dernière, sandale fabriquée sur-mesure avec passion par Laura Kollaard dans les Pyrénées-Orientales. Une [très belle initiative locale à soutenir](https://www.kisskissbankbank.com/fr/projects/kimana) et que nous allons vite commander pour l'essayer.
 - [Panta Sandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
 - [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premières sandales de prêt, confortables mais pas toutes assez robustes pour la course d'après nos tests, et qui fabrique aussi des sortes d'espadrilles et d'autres modèles fermés.
 - [Nörd Zero](https://nordrepublic.com/fr/produit/sandales-minimalistes-nord-zero), sandales que nous n'avons jamais testées.
+
+#### Les marques de chaussures
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de chaussures de sports, de randonnée et de vêtements de plein-air.
 
 #### Revendeurs
-Certaines de ces marques ne sont pas encore distribuées en France (mais pratiquent l'expédition) et d'autres sont disponibles chez deux revendeurs français, ce qui est toujours mieux&nbsp;:
+Certaines de ces marques de sandales ou de chaussures ne sont pas encore distribuées en France (mais pratiquent l'expédition) et d'autres sont disponibles chez deux revendeurs français, ce qui est toujours mieux&nbsp;:
 - Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui nous envoient leurs clients pour apprendre à courir léger, qui ont co-organisé avec nous une sortie découverte et que nous saluons (merci Peter&nbsp;!). Note&nbsp;: Peter se moque avec drôlerie, justesse et pertinence des [«&nbsp;chaussures magiques de certaines marques maximalistes&nbsp;»](https://commepiedsnus.com/fr/blog/vive-les-chaussures-magiques-b9.html) dans ce billet de blog.
 - Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica&nbsp;!).
 
