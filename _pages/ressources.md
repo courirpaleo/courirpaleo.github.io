@@ -98,7 +98,7 @@ Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les 
 Les autres principales marques&nbsp;:
 - [Kimana](https://dis-leur.fr/pyrenees-orientales-kimana-sandale-minimaliste-qui-marche-dans-vos-pas), la petite dernière, fabriquée sur-mesure avec passion par Laura Kollaard dans les Pyrénées-Orientales. Une [très belle initiative locale à soutenir](https://www.kisskissbankbank.com/fr/projects/kimana) et que nous allons vite commander pour l'essayer.
 - [Panta Sandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
-- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont confortables mais parfois plus destinés à la marche qu'à la course d'après notre expérience.
+- [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premiers modèles de prêt et qui sont confortables mais dont certains modèles sont plus destinés à la marche qu'à la course d'après notre expérience.
 - [Nörd Zero](https://nordrepublic.com/fr/produit/sandales-minimalistes-nord-zero), sandales que nous n'avons jamais testées.
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
