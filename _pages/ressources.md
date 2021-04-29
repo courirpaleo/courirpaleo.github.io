@@ -86,6 +86,7 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 ## Équipement
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
 ##### Couper ses propres sandales huaraches dans une semelle en caoutchouc ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
+
 Note&nbsp;: le modèle Huarache de Nike, pas du tout minimaliste, n'a rien à voir avec les vraies huaraches... Ce noble nom désigne [les sandales des Tarahumaras, peuple autochtone du Mexique](https://leminimaliste.info/huaraches-les-chaussures-du-peuple-autochtone-des-coureurs-du-mexique), comme l'explique cet article du blog Leminimaliste.
 
 ### Sandales & chaussures
