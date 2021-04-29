@@ -28,7 +28,7 @@ Merci à Amélie Toref d'avoir inclus nos témoignages dans son article paru dan
 Merci à Red Bull France de nous avoir interrogé en mai 2020 sur [la course pieds nus et les formidables coureurs Tarahumaras](https://www.redbull.com/fr-fr/courir-pied-nus-barefoot-running). L'article de Red Bull cite également notre ami Gwendal Galesne de Rennes, médecin et marathonien. Cet expert du «&nbsp;barefoot running&nbsp;» explique très bien, dans [cet autre article, de Ouest-France, les bienfaits de courir pieds nus](https://www.ouest-france.fr/sport/running/running-courir-pieds-nus-qu-en-penser-5724359).
 
 
-### Le Journal du Runner&nbsp;: Spécial Marathon de Paris
+### Le Journal du Runner&nbsp;: Spécial marathon de Paris
 Merci à Véronique Bury de nous avoir accompagnés lors d'une sortie à Vincennes dimanche 17 mars 2019. Lire son reportage dans [la double page intitulée «&nbsp;Les aficionados du barefoot&nbsp;»](https://courirpaleo.github.io/assets/documents/Journal-du-Runner-17-mars-2019-Aficionados-du-barefoot-Courir-Paleo.pdf) du Journal du Runner spécial marathon de Paris 2019.
 
 
