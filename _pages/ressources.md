@@ -104,6 +104,7 @@ Les autres principales marques&nbsp;:
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de chaussures de sports, de randonnée et de vêtements de plein-air.
 
+#### Revendeurs
 Certaines de ces marques ne sont pas encore distribuées en France (mais pratiquent l'expédition) et d'autres sont disponibles chez deux revendeurs français, ce qui est toujours mieux&nbsp;:
 - Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui nous envoient leurs clients pour apprendre à courir léger, qui ont co-organisé avec nous une sortie découverte et que nous saluons (merci Peter&nbsp;!). Note&nbsp;: Peter se moque avec drôlerie, justesse et pertinence des [«&nbsp;chaussures magiques de certaines marques maximalistes&nbsp;»](https://commepiedsnus.com/fr/blog/vive-les-chaussures-magiques-b9.html) dans ce billet de blog.
 - Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica&nbsp;!).
