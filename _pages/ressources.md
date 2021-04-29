@@ -87,8 +87,6 @@ Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous somm
 ![Courir Paleo](/assets/images/CourirPaleo_sandales_huaraches_maison_1200px.jpg)
 ##### Couper ses propres sandales huaraches dans une semelle en caoutchouc ou un morceau de cuir, ou comment porter du sur-mesure pour presque rien&nbsp;!
 
-Note&nbsp;: le modèle Huarache de Nike, pas du tout minimaliste, n'a rien à voir avec les vraies huaraches... Ce noble nom désigne [les sandales des Tarahumaras, peuple autochtone du Mexique](https://leminimaliste.info/huaraches-les-chaussures-du-peuple-autochtone-des-coureurs-du-mexique), comme l'explique cet article du blog Leminimaliste.
-
 ### Sandales & chaussures
 Que vous vouliez courir pieds nus, fabriquer vos propres sandales, les acheter toutes faites ou opter pour des chaussures fermées, nous sommes là pour vous aider à faire le bon choix, profitant de notre expérience.
 
@@ -114,6 +112,8 @@ Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les 
 Certaines de ces marques de sandales ou de chaussures ne sont pas encore distribuées en France (mais pratiquent l'expédition) et d'autres sont disponibles chez deux revendeurs français, ce qui est toujours mieux&nbsp;:
 - Nos amis de [Commepiedsnus.com](https://commepiedsnus.com/fr), dotés d'une boutique à Paris 11 et d'un magasin en ligne, qui nous envoient leurs clients pour apprendre à courir léger, qui ont co-organisé avec nous une sortie découverte et que nous saluons (merci Peter&nbsp;!). Note&nbsp;: Peter se moque avec drôlerie, justesse et pertinence des [«&nbsp;chaussures magiques de certaines marques maximalistes&nbsp;»](https://commepiedsnus.com/fr/blog/vive-les-chaussures-magiques-b9.html) dans ce billet de blog.
 - Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica&nbsp;!).
+
+Note&nbsp;: le modèle Huarache de Nike, pas du tout minimaliste, n'a rien à voir avec les vraies huaraches... Ce noble nom désigne [les sandales des Tarahumaras, peuple autochtone du Mexique](https://leminimaliste.info/huaraches-les-chaussures-du-peuple-autochtone-des-coureurs-du-mexique), comme l'explique cet article du blog Leminimaliste.
 
 ### Vêtements & accessoires
 Au-delà des sandales ou des chaussures, la philosophie ou la démarche d'un coureur vraiment minimaliste est aussi de ne pas s'encombrer de choses inutiles, de limiter son empreinte sur la Nature et de se rapprocher de celle-ci.
