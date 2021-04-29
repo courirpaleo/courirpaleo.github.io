@@ -9,7 +9,7 @@ Nous ne savons pas tout mais, dans la vie, le plus important c'est de se poser d
 ## Au quotidien
 
 ### Libérons nos pieds&nbsp;!
-Chez nous, soyons pieds nus le plus souvent possibles, en chaussons, en babouches, en mules, en claquettes, en espadrilles ou en chaussettes (attention de ne pas glisser), mais le plus près possible du sol et sans aucune semelle moulée. Notre pied est fait pour être naturellement arqué et pour être en tension. Sa voûte plantaire ne doit pas être «&nbsp;soutenue&nbsp;» par en dessous (poussez une voûte de construction par en dessous et vous la cassez&nbsp;&mdash;&nbsp;appuyez dessus et vous la renforcez...).
+Chez nous, soyons pieds nus le plus souvent possibles, en chaussons, en babouches, en mules, en claquettes, en espadrilles ou en chaussettes (attention de ne pas glisser), mais le plus près possible du sol et sans aucune semelle moulée. Notre pied est fait pour être naturellement arqué et pour être en tension. Sa voûte plantaire ne doit pas être «&nbsp;soutenue&nbsp;» (poussez une voûte d'immeuble par en dessous et vous la cassez&nbsp;&mdash;&nbsp;appuyez dessus et vous la renforcez...).
 ![Courir Paleo](/assets/images/CourirPaleo_semelles_bottines_1200px.jpg)
 Dans nos bottes, bottines, boots, chaussures de randonnées, mocassins, baskets... retirons la semelle intérieure moulée et remplaçons-là par une simple semelle de cuir, de laine ou de mousse achetée chez notre coordonnier. Au moins, notre voûte plantaire retrouvera sa tonicité et ne sera plus avachie et affaissée sur ce faux support qui lui fait plus de mal que de bien (lire aussi [notre page sur la foulée naturelle](/foulee-naturelle)). Choisissons ensuite des chaussures plus souples et qui ne serrent pas les pieds, mais cela n'empêche personne d'être élégant&nbsp;! Les souliers minimalistes de tous les jours sont très jolis et des souliers de ville «&nbsp;normaux&nbsp;», à talon raisonnable, lisses à l'intérieur, qui laissent nos orteils bouger a minima, ne vont pas nous faire du mal de temps en temps ou même 5 jours sur 7 si nos pieds travaillent et courent de la bonne façon les soirs et les week-ends.
 
@@ -62,7 +62,7 @@ Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.
 Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et animateur de la section française de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
 - son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com)
 - le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1)
-- le site du [TRAILBALL](https://trailball.net), un sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et qui mérite d'être découvert.
+- le site du [TRAILBALL](https://trailball.net), un sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et vaut d'être découvert.
 
 ## Anatomie & technique
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
