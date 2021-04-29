@@ -17,7 +17,7 @@ Ce site utilise deux polices de caractères&nbsp;:
 - Les textes sont composés en [Paysage](http://tunera.xyz/fonts/paysage), créée donc par Anton Moglia, [Maous Studio](http://www.maous.fr). Paysage est libre de droits.
 
 ### Création du site Internet
-Ce site Internet est minimaliste lui aussi, comme notre approche de la course. Minimaliste dans son design et minimaliste car il utilise le générateur de sites statiques [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel)). Grâce à Jekyll, aucune ligne de code inutile, rien que l'essentiel et un hébergement de pages Web qui consomme peu d'énergie&nbsp;! Soyons tous frugaux dans nos vies réelles et numériques.
+Ce site Internet est minimaliste lui aussi, comme notre approche de la course&nbsp;: minimaliste dans son design et minimaliste sous le capot car il utilise le générateur de sites statiques [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel)). Grâce à Jekyll, aucune ligne de code inutile, rien que l'essentiel et un hébergement de pages Web qui consomme peu d'énergie&nbsp;! Soyons tous frugaux dans nos vies réelles et numériques.
 
 C'est pour cela que nous remercions également ici Paul Laffitte, développeur Web tout aussi talentueux que nos artistes graphiques, qui nous a installé et configuré Jekyll sur GitHub avec un modèle de site déniché et adapté d'ailleurs par Anton afin de pouvoir vous offrir cet espace que nous avons souhaité sobre et efficace tout en étant élégant.
 - [Paul Laffitte sur LinkedIn](https://fr.linkedin.com/in/paul-laffitte)
