@@ -106,7 +106,7 @@ Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les 
 - [Panta Sandals](https://pantasandals.com/fr), fabriquées aux Pays-Bas.
 - [Unshoes](https://www.unshoesusa.com), qui nous a fourni nos premières sandales de prêt, confortables mais pas toutes assez robustes pour la course d'après nos tests, et qui fabrique aussi des sortes d'espadrilles et d'autres modèles fermés.
 - [Nörd Zero](https://nordrepublic.com/fr/produit/sandales-minimalistes-nord-zero), sandales que nous n'avons jamais testées.
-- [Bedrock](https://bedrocksandals.com/pages/our-story),marque américaine basée dans le Montana et créée en 2011. Leurs sandales sont orientées à la fois vers la course tout-terrain et la randonnée ou le rafting&nbsp;; pas encore testées par nos soins non plus.
+- [Bedrock](https://bedrocksandals.com/pages/our-story), marque américaine basée dans le Montana et créée en 2011. Leurs sandales sont destinées à la course tout-terrain, la randonnée ou aux sports en rivière&nbsp;; pas encore testées par nos soins non plus.
 
 #### Les marques de chaussures
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
