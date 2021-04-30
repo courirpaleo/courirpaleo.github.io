@@ -43,7 +43,7 @@ Nous souhaitons que tout le monde fasse son expérience et s'enrichisse des déc
 ## Lectures
 ### Attention «&nbsp;grands livres rouges&nbsp;»&nbsp;!
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-rouges-1200px.jpg)
-##### Quelques livres des éditions Guérin/Paulsen sur la course minimaliste et l'ultra-trail, qui nous paraissent essentiels.
+##### Quelques livres des éditions Guérin/Paulsen sur la course minimaliste, l'ultra-trail et l'endurance, qui nous paraissent essentiels.
 #### Coureurs d'abord, héros ensuite
 Traduits en français par notre ami Jean-Philippe Lefief, ces deux livres désormais cultes de Christopher McDougall, parus chez Guérin/Paulsen, sont incontournables&nbsp;:
 - Dans [«&nbsp;Né pour courir&nbsp;»](https://www.editionspaulsen.com/born-to-run-2293.html) ("Born to run"), il nous fait découvrir ces formidables coureurs Tarahumaras et qu'il faut courir comme notre corps le prévoit, c'est-à-dire surtout pas en posant le talon en premier comme lors de la marche ([lire aussi notre page sur la foulée naturelle](/foulee-naturelle)).
