@@ -5,7 +5,7 @@ summary: Comment rejoindre le club et l'association Courir Paléo, à Paris, en 
 ---
 ![Courir Paleo](/assets/images/CourirPaleo_groupe_Parc-Montsouris_pieds_1200px.jpg)
 # Rejoindre Courir Paléo
-## Le club est ouvert à toutes et à tous, de 5 à 95 ans
+## Le club est ouvert à tous de 5 à 95 ans
 ### Gratuit et sans engagement
 L'association Courir Paléo, créée en 2017 sous la loi du 1er juillet 1901, entend permettre au plus grand nombre de courir naturellement, sans se blesser et avec plaisir.
 
