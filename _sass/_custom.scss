@@ -26,7 +26,7 @@
 .logo {
   width: 30%;
   float: left;
-  margin-top: 25px;
+  margin-top: 0px;
 }
 
 .nav a {
@@ -81,15 +81,13 @@ text-decoration: none;
 }
 
 @media (max-width: 640px) {
+  .post {
+    padding: 1rem 1rem;
+  }
 
-.post {
-  padding: 1rem 1rem;
-}
 
-
-.logo {
+  .logo {
     width: 60%;
-    margin-top: 0px;
     margin-left: 10px;
   }
 }
