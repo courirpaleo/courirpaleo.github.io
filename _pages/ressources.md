@@ -36,6 +36,9 @@ Chacun réagit différemment à la nourriture, chacun mange comme il veut et au 
 
 L'Homme paléolithique, un chasseur-cueilleur endurant, était frugal, forcément locavore et respectueux des saisons, moins mangeur de viande que ce que l'imaginaire préhistorique peut laisser croire et nous nous inspirons de son alimentation. Note qui n'a rien à voir&nbsp;: nous pensons aussi que la sédentarité a apporté à l'Homme, outre des problèmes de santé, les guerres pour conquérir ou défendre des territoires d'élevage ou d'agriculture, mais c'est une autre histoire...:=)
 
+![Courir Paleo](/assets/images/CourirPaleo-Livre-Paleobiotique-Marion-Kaplan-montage-1200px.jpg)
+##### Dans «&nbsp;Paléobiotique&nbsp;», préfacé par le formidable Pierre Rahbi, Marion Kaplan nous invite à manger «&nbsp;comme nos ancêtres&nbsp;» pour booster notre métabolisme et nos défenses immunitaires grâce à un microbiote en pleine forme.
+
 Donc, sans être un collectif de mangeurs paléo, notre association encourage toutefois la consommation de fruits, de légumes et de bonnes graisses et nous sommes d'accord avec [le mea culpa de Tim Noakes](https://www2.u-trail.com/tim-noakes), qui avoue qu'il s'est trompé pendant des décennies et que les glucides ne sont pas la bonne source d'énergie pour l'effort d'endurance. Un ultra-traileur de Courir&nbsp;Paléo avait l'habitude il y a longtemps de grignoter une barre de céréales toutes les 30&nbsp;minutes. Maintenant, il court 100&nbsp;km sans manger car son métabolisme est bien plus efficient en se nourrissant de bonnes graisses, notamment végétales comme le beurre d'arachides.
 
 Nous souhaitons que tout le monde fasse son expérience et s'enrichisse des découvertes et des avancées des autres, que nous soyons végétariens, végétaliens, flexitariens ou rien du tout. Ce qui compte pour nous, c'est de se nourrir en adéquation avec ses choix personnels et surtout de la meilleure façon pour son corps, pour autrui (les producteurs) et pour la Nature.
