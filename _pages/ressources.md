@@ -112,6 +112,7 @@ Un bon point&nbsp;: Xero Shoes et Earth Runners soutiennent financièrement les 
 - [Vibram](https://www.vibram.fr), fabricant italien de semelles mondialement connu, qui s'est lancé dans la chaussure à doigts de pieds (la VFF, Vibram Five Fingers) et dans d'autres modèles.
 - [Vivobarefoot](https://www.vivobarefoot.com/eu), qui propose des chaussures pour courir mais aussi pour les loisirs, la randonnée ou tous les jours, dont des modèles en cuir végétal.
 - [Merrell](https://www.merrell.com/FR/fr_FR/home), fabricant de chaussures de sports, de randonnée et de vêtements de plein-air.
+- Inov-8, fabricant britannique de chaussures de course, de trail et de gym ainsi que de vêtements de randonnée, donc certains modèles seulement sont minimalistes avec un drop nul ou peu de drop et une semelle souple et plate, comme la [Trailtalon](https://www.inov-8.com/eu/trailtalon-235-v2-womens) pour femmes ou la [Bare-XF])(https://www.inov-8.com/eu/bare-xf-210-v2-mens-training-shoe) pour hommes.
 
 #### Revendeurs
 Certaines de ces marques de sandales ou de chaussures ne sont pas encore distribuées en France (mais pratiquent l'expédition) et d'autres sont disponibles chez deux revendeurs français, ce qui est toujours mieux&nbsp;:
