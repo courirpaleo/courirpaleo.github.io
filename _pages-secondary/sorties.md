@@ -26,7 +26,7 @@ Voir en bas de page pour les lieux de rendez-vous précis.​
 ### Format
 - Accueil de 9h30 à 10h.
 - Nous courons ou effectuons des démonstrations de 10h à 11h environ.
-- Nous terminons par un café ou un verre pour ceux qui le souhaitent (à emporter en ce moment&nbsp;!).
+- Nous terminons par un café ou un verre pour ceux qui le souhaitent.
 
 ### Lieux de rendez-vous à Paris des sorties et ateliers Courir&nbsp;Paléo
 - Parc Montsouris&nbsp;: devant [La Bonbonnière](https://goo.gl/maps/RUvVHuyTAXZ8Kg8XA).
