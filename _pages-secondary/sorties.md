@@ -19,14 +19,14 @@ Voir en bas de page pour les lieux de rendez-vous précis.​
 ### Calendrier
 - Dimanche 2 mai 2021&nbsp;: Parc Montsouris
 - Dimanche 6 juin 2021&nbsp;: Quai Rive Gauche / Piscine Joséphine Baker
-- NB : pas de sortie le dimanche 4 juillet
+- NB&nbsp;: pas de sortie le dimanche 4 juillet
 - Dimanche 1er août 2021&nbsp;: Bois de Vincennes
-- Dimanche 5 septembre : Stade Suzanne Lenglen
+- Dimanche 5 septembre 2021&nbsp;: Stade Suzanne Lenglen
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
 ### Format
 - Accueil de 9h30 à 10h.
-- Nous courons ou effectuons des démonstrations de 10h à 11h environ.
+- Nous courons ou effectuons des démonstrations et des exercices de 10h à 11h environ.
 - Nous terminons par un café ou un verre pour ceux qui le souhaitent.
 
 ### Lieux de rendez-vous à Paris des sorties et ateliers Courir&nbsp;Paléo
