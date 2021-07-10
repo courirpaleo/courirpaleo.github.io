@@ -19,9 +19,8 @@ Voir en bas de page pour les lieux de rendez-vous précis.​
 ### Calendrier
 - Dimanche 2 mai 2021&nbsp;: Parc Montsouris
 - Dimanche 6 juin 2021&nbsp;: Quai Rive Gauche / Piscine Joséphine Baker
-- NB&nbsp;: pas de sortie le dimanche 4 juillet
-- Dimanche 1er août 2021&nbsp;: Bois de Vincennes
-- Dimanche 5 septembre 2021&nbsp;: Stade Suzanne Lenglen
+- NB&nbsp;: pas de sortie en juillet et août 2021
+- Dimanche 5 septembre 2021&nbsp;: Bois de Vincennes
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
 ### Format
