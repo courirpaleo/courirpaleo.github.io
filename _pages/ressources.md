@@ -74,16 +74,17 @@ Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et a
 - Le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1).
 - Le site du [TRAILBALL](https://trailball.net), un sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et vaut d'être découvert.
 
-## Anatomie & technique
-![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-1200px.jpg)
+## Anatomie, technique & perfectionnement
+![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-Solarberg-Sehel-1200px.jpg)
+
+### Guides de Frédéric Brigaud
 Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud (ostéopathe, consultant et formateur en biomécanique humaine et sportive) chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture. Citons-en deux, dont le petit guide, très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
 - [Guide de la foulée](https://www.adverbum.fr/editions-desiris/frederic-brigaud/guide-de-la-foulee-avec-prise-d-appui-avant-pied-nouvelle-edition_56fzf2eirl5t.html) (avec prise d'appui avant-pied)
 - [Corriger le pied sans semelle](https://www.adverbum.fr/editions-desiris/frederic-brigaud/corriger-le-pied-nouvelle-edition_kmc5fm7vaovo.html)
 
 Voir aussi son site EAD Concept et notamment cette page sur [l'initiation à la course pieds nus](https://eadconcept.com/coaching-ead/s-initier-au-barefoot-courir-pieds-nus).
 
-### Perfectionnement
-![Courir Paleo](/assets/images/CourirPaleo_Livre_Light-Feet-Running_1200px.jpg)
+### Livre & ateliers Light Feet Running
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement le livre «&nbsp;Courir léger&nbsp;» de Solarberg Séhel et ses ateliers d'apprentissage Light Feet Running de la foulée légère. Ces sessions d'une demi-journée pour les débutants, les coureurs expérimentés et aussi les coachs sportifs offrent une véritable instruction technique sur la biomécanique de la foulée. Ces ateliers vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés. Bonus supplémentaire, Light Feet Running offre 10% de remise aux membres de Courir Paléo.
 
 [Voir le site de Light Feet Running](http://www.lightfeetrunning.com).
