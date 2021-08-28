@@ -65,7 +65,7 @@ Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce
 
 ### In English please
 ![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
-Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George&nbsp;Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher&nbsp;McDougall dans «&nbsp;Tous des héros&nbsp;».
+Si vous lisez l'anglais, outre la lecture originale de «&nbsp;Tous des héros&nbsp;» ("Natural Born Heroes") déjà cité plus haut,précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George&nbsp;Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher&nbsp;McDougall dans «&nbsp;Tous des héros&nbsp;».
 
 ### Le pionnier
 ![Courir Paleo](/assets/images/CourirPaleo_Christian-Harberts_Noel_1200px.jpg)
