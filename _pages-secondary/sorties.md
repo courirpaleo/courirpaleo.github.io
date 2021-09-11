@@ -17,7 +17,6 @@ Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes mas
 Voir en bas de page pour les lieux de rendez-vous précis.​
 
 ### Calendrier
-NB&nbsp;: pas de sortie en juillet et août 2021
 - Dimanche 5 septembre 2021&nbsp;: Bois de Vincennes
 - Dimanche 3 octobre 2021&nbsp;: Parc Montsouris
 - Dimanche 7 novembre 2021&nbsp;: Piscine Joséphine Baker / Quai Rive Gauche
