@@ -17,10 +17,10 @@ Bien entendu et Covid-19 oblige, nous ne sommes pas plus de six, nous sommes mas
 Voir en bas de page pour les lieux de rendez-vous précis.​
 
 ### Calendrier
-- Dimanche 5 septembre 2021&nbsp;: Bois de Vincennes
 - Dimanche 3 octobre 2021&nbsp;: Parc Montsouris
 - Dimanche 7 novembre 2021&nbsp;: Piscine Joséphine Baker / Quai Rive Gauche
 - Dimanche 5 décembre 2021&nbsp;: Stade Suzanne Lenglen
+- Dimanche 2 janvier 2022&nbsp;: Bois de Vincennes
 
 ![Courir Paleo](/assets/images/CourirPaleo_atelier_Bois-de-Vincennes_2017_VFF2_1200px.jpg)
 ### Format
