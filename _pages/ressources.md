@@ -75,7 +75,12 @@ Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et a
 - Le site du [TRAILBALL](https://trailball.net), un sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et vaut d'être découvert.
 
 ## Anatomie, technique & perfectionnement
-![Courir Paleo](/assets/images/Courir-Paleo-livres-Fred-Brigaud-Solarberg-Sehel-1200px.jpg)
+![Courir Paleo](/assets/images/Courir-Paleo-livres-conseils-Ken-Bob-Saxton-Fred-Brigaud-S-Sehel-1200px.jpg)
+
+### Livre de «&nbsp;barefoot&nbsp;» Ken Bob Saxton
+Le livre du «&nbsp;pape&nbsp;» de la course pieds nus, que Christopher McDougall qualifie de «&nbsp;maître&nbsp;», est enfin traduit en français, co-écrit et préfacé par Roy M. Wallack, journaliste sportif et auteur lui-même. Ken Bob Saxton, qui a inspiré et initié des milliers de coureurs américains et dans le monde, nous explique parfaitement pourquoi courir pieds nus non seulement répare et prévient les blessures mais nous fait gagner en vitesse et nous sentir bien dans notre corps et en harmonie avec le terrain et la Nature. Un livre riche de photos et d'explications très claires.
+- [Courir pieds nus](https://www.thierrysouccar.com/sport/livre/courir-pieds-nus-6608)
+- [www/barefootrunning.com](https://barefootrunning.com) (son site officiel en anglais)
 
 ### Guides de Frédéric Brigaud
 Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud (ostéopathe, consultant et formateur en biomécanique humaine et sportive) chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture. Citons-en deux, dont le petit guide, très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
