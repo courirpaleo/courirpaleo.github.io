@@ -8,7 +8,7 @@ summary: Venez courir avec nous et vous sentir légers !
 
 ## Découvrir, s'initier, s'amuser, partager des impressions, apprendre
 
-Nous organisons des sorties d'initiation, de découverte de la foulée naturelle et de partage d'expérience le dimanche matin à Paris. Initialement, nos sorties avaient lieu le premier dimanche de chaque mois&nbsp; désormais, nous préférons choisir le dimanche qui convient le mieux à celles et ceux qui viennent, en nous concertant par email ou par un groupe WhatsApp ou une boucle Telegram.
+Nous organisons des sorties d'initiation, de découverte de la foulée naturelle et de partage d'expérience le dimanche matin à Paris. Initialement, nos sorties avaient lieu le premier dimanche de chaque mois&nbsp;; désormais, nous préférons choisir le dimanche qui convient le mieux à celles et ceux qui viennent, en nous concertant par email ou par un groupe WhatsApp ou une boucle Telegram.
 
 Pour rejoindre notre groupe de coureurs franciliens, même occasionnellement ou pour une seule sortie découverte, contactez Benoît&nbsp;:
 - par sms, WhatsApp, Telegram au +33 6 76 13 17 85,
