@@ -27,7 +27,7 @@ Bien entendu et Covid-19 oblige, nous sommes masqués pour les exercices statiqu
 - Nous terminons par un café ou un verre pour celles et ceux qui le souhaitent.
 
 ### Lieux de rendez-vous à Paris des sorties et ateliers Courir&nbsp;Paléo
-Nous courons généralement dans l'un des quatre parcs ou lieux suivants, nous donnant rendez-vous à ces endroits précis.
+Nous courons généralement dans l'un des quatre parcs ou lieux suivants, nous donnant rendez-vous à ces endroits précis&nbsp;:
 - Parc Montsouris&nbsp;: devant [La Bonbonnière](https://goo.gl/maps/RUvVHuyTAXZ8Kg8XA).
 - Bois de Vincennes&nbsp;: devant [le loueur de barques du lac Daumesnil](https://goo.gl/maps/cTo9py5b5GwrV8KC9), côté Porte Dorée.
 - Stade Suzanne Lenglen&nbsp;: devant [les gradins autour de la piste d'athlétisme](https://goo.gl/maps/dx16s8HVGmrYxbMb8), coté ouest.
