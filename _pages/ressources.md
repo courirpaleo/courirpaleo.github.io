@@ -69,7 +69,7 @@ Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce
 ### Livre de «&nbsp;Barefoot&nbsp;» Ken Bob Saxton
 Le livre du «&nbsp;pape&nbsp;» de la course pieds nus, que Christopher McDougall qualifie de «&nbsp;maître&nbsp;», est enfin traduit en français, co-écrit et préfacé par Roy M. Wallack, journaliste sportif et auteur lui-même. Ken Bob Saxton, qui a inspiré et initié des milliers de coureurs américains et dans le monde, nous explique parfaitement pourquoi courir pieds nus non seulement répare et prévient les blessures mais nous fait gagner en vitesse et nous sentir bien dans notre corps et en harmonie avec le terrain et la Nature. Un livre riche de photos et d'explications très claires.
 - [Courir pieds nus](https://www.thierrysouccar.com/sport/livre/courir-pieds-nus-6608)
-- [www/barefootrunning.com](https://barefootrunning.com) (son site officiel en anglais)
+- [www.barefootrunning.com](https://barefootrunning.com) (son site officiel en anglais)
 
 ### Guides de Frédéric Brigaud
 Coté anatomie, physiologie et technique, tous les livres de Frédéric Brigaud (ostéopathe, consultant et formateur en biomécanique humaine et sportive) chez les Éditions Désiris sont, eux aussi, de bonnes bases de lecture. Citons-en deux, dont le petit guide, très pratique à conserver dans son sac de sport pour le consulter souvent et en faire profiter les autres&nbsp;:
@@ -81,7 +81,7 @@ Voir aussi son site EAD Concept et notamment cette page sur [l'initiation à la 
 ### Livre & ateliers Light Feet Running
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement le livre «&nbsp;Courir léger&nbsp;» de Solarberg Séhel et ses ateliers d'apprentissage Light Feet Running de la foulée légère. Ces sessions d'une demi-journée pour les débutants, les coureurs expérimentés et aussi les coachs sportifs offrent une véritable instruction technique sur la biomécanique de la foulée. Ces ateliers vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés. Bonus supplémentaire, Light Feet Running offre 10% de remise aux membres de Courir Paléo.
 
-[Voir le site de Light Feet Running](http://www.lightfeetrunning.com).
+[Le site Light Feet Running](http://www.lightfeetrunning.com).
 
 ### In English please
 ![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
