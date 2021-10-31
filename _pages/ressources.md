@@ -63,18 +63,7 @@ Toujours chez Guérin/Paulsen, Jean-Philippe nous permet aussi&nbsp;:
 Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce bel ouvrage signé cette fois de Jean-Philippe, écrivain lui-même en plus d'être ultra-traileur, traducteur et cher à Courir&nbsp;Paléo&nbsp;:
 - [«&nbsp;La Folle Histoire du trail&nbsp;»](https://www.editionspaulsen.com/la-folle-histoire-du-trail-2126.html), ou l'aventure de trails mythiques comme l'UTMB ou la Diagonale des Fous et aussi l'histoire de Nike, intéressante même si chez Courir&nbsp;Paléo nous ne recommandons évidemment pas les chaussures classiques ou maximalistes&nbsp;!
 
-### In English please
-![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
-Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George&nbsp;Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher&nbsp;McDougall dans «&nbsp;Tous des héros&nbsp;» ("Natural Born Heroes"), déjà cité plus haut.
-
-### Le pionnier
-![Courir Paleo](/assets/images/CourirPaleo_Christian-Harberts_Noel_1200px.jpg)
-Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et animateur de la section française de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
-- Son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com).
-- Le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1).
-- Le site du [TRAILBALL](https://trailball.net), un sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et vaut d'être découvert.
-
-## Anatomie, technique & perfectionnement
+## Conseils, technique, perfectionnement & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-conseils-Ken-Bob-Saxton-Fred-Brigaud-S-Sehel-1200px.jpg)
 
 ### Livre de «&nbsp;barefoot&nbsp;» Ken Bob Saxton
@@ -93,6 +82,17 @@ Voir aussi son site EAD Concept et notamment cette page sur [l'initiation à la 
 Pour les avoir appréciés nous-mêmes, nous recommandons vivement le livre «&nbsp;Courir léger&nbsp;» de Solarberg Séhel et ses ateliers d'apprentissage Light Feet Running de la foulée légère. Ces sessions d'une demi-journée pour les débutants, les coureurs expérimentés et aussi les coachs sportifs offrent une véritable instruction technique sur la biomécanique de la foulée. Ces ateliers vous permettent d'être conseillés, corrigés et filmés par un professionnel. En un mot&nbsp;: le complément idéal de nos simples conseils d'amateurs éclairés. Bonus supplémentaire, Light Feet Running offre 10% de remise aux membres de Courir Paléo.
 
 [Voir le site de Light Feet Running](http://www.lightfeetrunning.com).
+
+### In English please
+![Courir Paleo](/assets/images/Courir-Paleo-english-books-1200px.jpg)
+Si vous lisez l'anglais, précipitez-vous sur ["The Cretan Runner"](https://www.waterstones.com/book/the-cretan-runner/george-psychoundakis/9780141043340), l'autobiographie passionnante de [George&nbsp;Psychoundakis](https://fr.wikipedia.org/wiki/Ge%C3%B3rgios_Psychound%C3%A1kis), le coureur messager crétois légendaire cité maintes fois par Christopher&nbsp;McDougall dans «&nbsp;Tous des héros&nbsp;» ("Natural Born Heroes"), déjà cité plus haut.
+
+### Le pionnier en France
+![Courir Paleo](/assets/images/CourirPaleo_Christian-Harberts_Noel_1200px.jpg)
+Notre bon ami Christian Harberts, pionnier de la course pieds nus en France et animateur de la section française de l'association mondiale des coureurs pieds nus, mérite qu'on s'attarde sur&nbsp;:
+- Son blog [Courirpiedsnus.com](https://www.courirpiedsnus.com).
+- Le site de la [Barefoot Runners Society](https://www.thebarefootrunners.org/social-forums/france.79/?page=1).
+- Le site du [TRAILBALL](https://trailball.net), un sport étonnant avec «&nbsp;le monde comme terrain de jeu&nbsp;», qu'il a inventé et vaut d'être découvert.
 
 ## Vidéos
 Beaucoup de vidéos sur la course minimaliste ou naturelle existent et nous sommes en train d'établir une sélection de celles que nous vous conseillons.
