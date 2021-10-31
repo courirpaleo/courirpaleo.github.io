@@ -5,7 +5,7 @@ title: Contactez Courir Paléo, association et club de course naturelle et minim
 # Contactez Courir Paléo
 
 ### Essai & découverte
-Pour essayer la course naturelle en toute liberté si vous êtes francilien.ne, joignez-vous à l'une de [nos sorties parisiennes](/sorties) le premier dimanche de chaque mois.
+Pour essayer la course naturelle en toute liberté si vous êtes francilien.ne, joignez-vous à l'une de [nos sorties parisiennes](/sorties) le dimanche matin.
 
 ### Renseignements & newsletter
 Pour toute information sur la course naturelle, nos activités ou pour recevoir notre newsletter gratuite, contactez Benoît, notre fondateur&nbsp;; ll répond sous 24 heures. À bientôt&nbsp;!
