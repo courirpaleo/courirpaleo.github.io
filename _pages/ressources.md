@@ -66,7 +66,7 @@ Et cette formidable collection rouge ne serait, bien sûr, pas complète sans ce
 ## Conseils, technique, perfectionnement & anatomie
 ![Courir Paleo](/assets/images/Courir-Paleo-livres-conseils-Ken-Bob-Saxton-Fred-Brigaud-S-Sehel-1200px.jpg)
 
-### Livre de «&nbsp;barefoot&nbsp;» Ken Bob Saxton
+### Livre de «&nbsp;Barefoot&nbsp;» Ken Bob Saxton
 Le livre du «&nbsp;pape&nbsp;» de la course pieds nus, que Christopher McDougall qualifie de «&nbsp;maître&nbsp;», est enfin traduit en français, co-écrit et préfacé par Roy M. Wallack, journaliste sportif et auteur lui-même. Ken Bob Saxton, qui a inspiré et initié des milliers de coureurs américains et dans le monde, nous explique parfaitement pourquoi courir pieds nus non seulement répare et prévient les blessures mais nous fait gagner en vitesse et nous sentir bien dans notre corps et en harmonie avec le terrain et la Nature. Un livre riche de photos et d'explications très claires.
 - [Courir pieds nus](https://www.thierrysouccar.com/sport/livre/courir-pieds-nus-6608)
 - [www/barefootrunning.com](https://barefootrunning.com) (son site officiel en anglais)
