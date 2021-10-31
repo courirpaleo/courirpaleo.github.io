@@ -14,7 +14,7 @@ Pour rejoindre notre groupe de coureurs franciliens, même occasionnellement ou 
 - par sms, WhatsApp, Telegram au +33 6 76 13 17 85,
 - par email à l'adresse [info@courirpaleo.fr](info@courirpaleo.fr).
 
-Le jour de la sortie, nous prêtons des sandales minimalistes aux nouveaux venus.ues qui veulent découvrir une nouvelle façon de courir sans se blesser et nous organisons des ateliers pratiques sur du sable, de l'herbe, de la piste ou un trottoir, selon l'endroit. Les sandales permettent d'éviter l'appréhension de courir pieds nus et protégent le pied sans en entraver le mouvement naturel (ou très peu, de manière minime par rapport à des chaussures traditionnelles).
+Le jour de la sortie, nous prêtons des sandales minimalistes aux nouveaux venus qui veulent découvrir une nouvelle façon de courir sans se blesser et nous organisons des ateliers pratiques sur du sable, de l'herbe, de la piste ou un trottoir, selon l'endroit. Les sandales permettent d'éviter l'appréhension de courir pieds nus et protégent le pied sans en entraver le mouvement naturel (ou très peu, de manière minime par rapport à des chaussures traditionnelles).
 
 L'accès à ces sorties découvertes est libre et gratuit de 5 à 105 ans, que vous couriez déjà ou non, chaussé ou non, et sans réservation&nbsp;&mdash;&nbsp;mais cela nous fait plaisir d'être prévenus afin que nous sachions qui vient, ceci pour mieux vous accueillir et adapter notre programme aux nouveaux arrivants.
 
