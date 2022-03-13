@@ -129,7 +129,7 @@ Certaines de ces marques de sandales ou de chaussures ne sont pas encore distrib
 
 - Nos amis de [5doigts.fr](https://5doigts.fr), qui vendent uniquement en ligne, qui tiennent [le blog Leminimaliste](https://leminimaliste.info) et qui nous ont gentiment donné nos premières plaques de semelles Vibram pour couper nos premières huaraches (merci Monica&nbsp;!).
 
-Note&nbsp;: le modèle Huarache de Nike, pas du tout minimaliste, n'a rien à voir avec les vraies huaraches... Ce noble nom désigne [les sandales des Tarahumaras, peuple autochtone du Mexique](https://leminimaliste.info/huaraches-les-chaussures-du-peuple-autochtone-des-coureurs-du-mexique), comme l'explique cet article du blog Leminimaliste.
+Attention&nbsp;: le modèle Huarache de Nike, pas du tout minimaliste, n'a rien à voir avec les vraies huaraches... Ce noble nom désigne [les sandales des Tarahumaras, peuple autochtone du Mexique](https://leminimaliste.info/huaraches-les-chaussures-du-peuple-autochtone-des-coureurs-du-mexique), comme l'explique cet article du blog Leminimaliste.
 
 Note : nous amis de [Commepiedsnus.com](https://commepiedsnus.com/fr) ont dû fermer leur boutique à Paris et leur magasin en ligne à cause des confinements. Nous le regrettons et saluons Peter Blanken et son équipe, qui n'ont pas ménagé leurs efforts pendant plus de dix ans pour éveiller, éduquer et distraire celles et ceux qui veulent courir libres et qui avaient organisé avec nous une sortie découverte au Bois de Vincennes.
 
