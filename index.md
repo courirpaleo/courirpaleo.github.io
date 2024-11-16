@@ -7,8 +7,7 @@ description: Courir Paléo, association loi 1901 qui promeut la course naturelle
 #### Courir Paléo est un club de course minimaliste à Paris. Nous faisons découvrir la course liberté à celles et ceux qui veulent courir de manière naturelle et originelle lors de sorties et ateliers gratuits et ouverts à tous.
 ### Ne manquez pas la 2e édition de notre soirée spéciale cinéma-débat sur la course naturelle à Paris 13e le vendredi 22 novembre 2024 de 18h à 20h (entrée dès 17h30), suivie d'un pot dinatoire. Experts, médecins, kinés, sportifs et auteurs vous expliqueront tout sur la foulée, la technique, les chaînes musculaires, les fascias, l'entraînement et le mental qui nous permettent à tous, débutants ou chevronnés, coureurs aguerris ou occasionnels, de courir léger, avec plaisir et sans blessure.
 <br><strong>Nouveautés cette année pour la deuxième édition&nbsp;:</strong>
-<br>- Notre partenaire [Leguano](https://www.leguano.fr) présentera sa gamme de chaussures type pieds-nus ou minimalistes.
-<br>![Courir Paleo](/assets/logos/Logo-Leguano.png)
+<br>- Notre partenaire <strong>[Leguano](https://www.leguano.fr)</strong> présentera sa gamme de chaussures type pieds-nus ou minimalistes.
 <br>- Présentation du Trailball et l'entraînement naturel (méthode Hébert)
 <br>- Présentation de notre course 2025 : La Foulterra
 <br>Et toujours pour les inscrits : l'atelier technique de foulée du lendemain, samedi matin.
