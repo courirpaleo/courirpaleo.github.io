@@ -10,7 +10,7 @@ description: Courir Paléo, association loi 1901 qui promeut la course naturelle
 
 Découvrez [la vidéo témoignage de notre 2e soirée conférence, cinéma-débat, de novembre 2024](https://www.youtube.com/watch?v=h9ES8pJuxBs).
 
-Au sein de Courir Paléo, nous partageons les informations, les astuces et les bonnes pratiques de la course à pieds&nbsp;; nous aidons les uns et les autres à réussir leur transition vers une foulée légère et naturelle, à se sentir aériens et toniques, sans gadgets ni accessoires.
+Au sein de Courir Paléo, nous partageons les informations, les astuces et les bonnes pratiques de la course à pied&nbsp;; nous aidons les uns et les autres à réussir leur transition vers une foulée légère et naturelle, à se sentir aériens et toniques, sans gadgets ni accessoires.
 
 À notre image, ce site Internet aussi est minimaliste, épuré mais efficient, joyeusement frugal mais gourmand quand même, économe mais épanoui.
 
