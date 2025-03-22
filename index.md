@@ -8,7 +8,9 @@ description: Courir Paléo, association loi 1901 qui promeut la course naturelle
 <br>![Courir Paleo](/assets/images/CourirPaleo_course_Parc-Montsouris_foulees_1200px.jpg)
 <br>Parmi nos membres, beaucoup ont aussi adopté une alimentation de type paléolithique ou tout au moins naturelle et originelle elle aussi, sans produits transformés, pauvre en céréales, riche en fruits et légumes de saisons et en bonnes protéines et graisses, végétales ou animales.
 
-Découvrez [la vidéo témoignage de notre 2e soirée conférence, cinéma-débat, de novembre 2024](https://www.youtube.com/watch?v=h9ES8pJuxBs).
+#### Webinaire unique animé par Frédéric Brigaud, consultant en biomécanique humaine et sportive, ostéopathe, le 6 mai 2025 de 19h30 à 21h (et non plus le 22 avril) sur les bienfaits de la foulée avant-pied, aussi bien pour les coureurs aguerris que pour les débutants et aussi pour d’autres sportifs et au quotidien. [Inscription au webinaire ici pour toutes celles et ceux qui veulent comprendre et améliorer leur foulée de course, pour le plaisir ou pour la performance, ainsi que pour améliorer ses appuis et déplacements dans tous les sports](https://my.weezevent.com/la-foulee-avant-pied-et-ses-bienfaits)
+
+<br>Découvrez [la vidéo témoignage de notre 2e soirée conférence, cinéma-débat, de novembre 2024](https://www.youtube.com/watch?v=h9ES8pJuxBs).
 
 
 Au sein de Courir Paléo, nous partageons les informations, les astuces et les bonnes pratiques de la course à pied&nbsp;; nous aidons les uns et les autres à réussir leur transition vers une foulée légère et naturelle, à se sentir aériens et toniques, sans gadgets ni accessoires.
